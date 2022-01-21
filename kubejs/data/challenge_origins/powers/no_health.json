@@ -1,0 +1,18 @@
+{
+  "name": "Bodiless",
+  "description": "You have no health, any unprotected damage you take is fatal.",
+  "type": "origins:multiple",
+  "attribute": {
+    "type": "origins:attribute",
+    "modifier": {
+      "name": "No health",
+      "attribute": "minecraft:generic.max_health",
+      "operation": "multiply_total",
+      "value": -1.0
+    }
+  },
+  "status_bar_texture": {
+    "type": "origins:status_bar_texture",
+    "texture": "kubejs:textures/gui/lost_status_bar.png"
+  }
+}

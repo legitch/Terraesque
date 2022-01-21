@@ -1,0 +1,26 @@
+{
+  "name": "Delayed March",
+  "description": "On spawn, you are immune to the ray of lights you would normally take damage from for 60 seconds, use it well.",
+  "type": "origins:multiple",
+  "action_on_callback": {
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+      "type": "origins:trigger_cooldown",
+      "power": "challenge_origins:block_overhead_start_cooldown"
+    },
+    "entity_action_respawned": {
+      "type": "origins:trigger_cooldown",
+      "power": "challenge_origins:block_overhead_start_cooldown"
+    },
+    "cooldown": 1200
+  },
+  "cooldown": {
+    "type": "origins:cooldown",
+    "cooldown": 1200,
+    "hud_render": {
+      "should_render": true,
+      "sprite_location": "origins:textures/gui/resource_bar_custom.png",
+      "bar_index": 1
+    }
+  }
+}

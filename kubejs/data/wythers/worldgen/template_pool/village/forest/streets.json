@@ -1,0 +1,150 @@
+{
+  "name": "wythers:village/forest/streets",
+  "fallback": "wythers:village/forest/terminators",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/forest/streets/corner_01",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/forest/streets/corner_02",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/forest/streets/corner_03",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/forest/streets/straight_01",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/forest/streets/straight_02",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "wythers:village/forest/streets/straight_03",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "wythers:village/forest/streets/straight_04",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "wythers:village/forest/streets/straight_05",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "wythers:village/forest/streets/straight_06",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/forest/streets/crossroad_01",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "wythers:village/forest/streets/crossroad_02",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/forest/streets/crossroad_03",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/forest/streets/crossroad_04",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/forest/streets/crossroad_05",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "wythers:village/forest/streets/crossroad_06",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "wythers:village/forest/streets/turn_01",
+        "processors": "wythers:street_forest",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

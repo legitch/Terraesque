@@ -1,0 +1,28 @@
+{
+  "name": "Empty Stomach",
+  "description": "You have no stomach, you cannot eat nor starve.",
+  "type": "origins:multiple",
+  "invulnerability": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "starve"
+    }
+  },
+  "exhaust": {
+    "type": "origins:exhaust",
+    "interval": 20,
+    "exhaustion": 1000.0,
+    "condition": {
+      "type": "origins:food_level",
+      "comparison": ">",
+      "compare_to": 0
+    }
+  },
+  "prevent_item_use": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:food"
+    }
+  }
+}

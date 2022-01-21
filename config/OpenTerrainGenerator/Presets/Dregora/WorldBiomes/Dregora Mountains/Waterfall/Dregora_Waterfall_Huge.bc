@@ -1,0 +1,310 @@
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Biome Identity                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+TemplateForBiome: false
+
+BiomeDictTags: OVERWORLD, WATER, JUNGLE, WET, HOT, MOUNTAIN
+
+BiomeCategory: jungle
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                         Biome placement                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeSize: 4
+
+BiomeRarity: 100
+
+BiomeColor: #3B0E12
+
+
+#######################################################################
+# |                           Isle biomes                           | #
+#######################################################################
+
+IsleInBiome: 
+
+BiomeSizeWhenIsle: 8
+
+BiomeRarityWhenIsle: 100
+
+#################
+# Border biomes #
+#################
+
+BiomeIsBorder: 
+
+OnlyBorderNear: 
+
+NotBorderNear: 
+
+BiomeSizeWhenBorder: 8
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                  Terrain height and volatility                  | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeHeight: -0.5
+
+BiomeVolatility: 0.0
+
+SmoothRadius: 1
+
+CustomHeightControlSmoothRadius: 2
+
+MaxAverageHeight: 0.0
+
+MaxAverageDepth: 0.0
+
+Volatility1: 0.0
+
+Volatility2: 0.6
+
+VolatilityWeight1: 3.5
+
+VolatilityWeight2: 0.45
+
+DisableBiomeHeight: false
+
+CustomHeightControl: 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Rivers                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+RiverBiome: River
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Blocks                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+StoneBlock: minecraft:stone
+
+SurfaceBlock: minecraft:water
+
+GroundBlock: minecraft:water
+
+UnderWaterSurfaceBlock: minecraft:water
+
+SurfaceAndGroundControl: 
+
+ReplacedBlocks: (minecraft:granite,minecraft:light_gray_terracotta,200,202),(minecraft:granite,minecraft:lime_terracotta,202,204),(minecraft:granite,minecraft:brown_terracotta,204,206),(minecraft:granite,minecraft:green_terracotta,206,208),(minecraft:granite,minecraft:black_terracotta,208,210),(minecraft:granite,minecraft:light_gray_terracotta,210,212),(minecraft:granite,minecraft:lime_terracotta,212,214),(minecraft:granite,minecraft:brown_terracotta,214,216),(minecraft:granite,minecraft:green_terracotta,216,218),(minecraft:granite,minecraft:black_terracotta,218,220),(minecraft:granite,minecraft:light_gray_terracotta,220,222),(minecraft:granite,minecraft:lime_terracotta,222,224),(minecraft:granite,minecraft:brown_terracotta,224,226),(minecraft:granite,minecraft:green_terracotta,226,228),(minecraft:granite,minecraft:black_terracotta,228,230),(minecraft:grass_block,minecraft:light_gray_terracotta,230,232),(minecraft:grass_block,minecraft:lime_terracotta,232,234),(minecraft:grass_block,minecraft:brown_terracotta,234,236),(minecraft:grass_block,minecraft:green_terracotta,238,240),(minecraft:grass_block,minecraft:black_terracotta,240,242),(minecraft:grass_block,minecraft:light_gray_terracotta,242,244),(minecraft:grass_block,minecraft:lime_terracotta,244,246),(minecraft:grass_block,minecraft:brown_terracotta,246,248),(minecraft:grass_block,minecraft:green_terracotta,248,250),(minecraft:grass_block,minecraft:black_terracotta,250,252),(minecraft:grass_block,minecraft:light_gray_terracotta,252,254),(minecraft:granite,minecraft:light_gray_terracotta,230,232),(minecraft:granite,minecraft:lime_terracotta,232,234),(minecraft:granite,minecraft:brown_terracotta,234,236),(minecraft:granite,minecraft:green_terracotta,238,240),(minecraft:granite,minecraft:black_terracotta,240,242),(minecraft:granite,minecraft:light_gray_terracotta,242,244),(minecraft:granite,minecraft:lime_terracotta,244,246),(minecraft:granite,minecraft:brown_terracotta,246,248),(minecraft:granite,minecraft:green_terracotta,248,250),(minecraft:granite,minecraft:black_terracotta,250,252),(minecraft:granite,minecraft:light_gray_terracotta,252,254),(minecraft:grass_block,minecraft:light_gray_terracotta,180,182),(minecraft:grass_block,minecraft:lime_terracotta,182,184),(minecraft:grass_block,minecraft:brown_terracotta,184,186),(minecraft:grass_block,minecraft:green_terracotta,186,188),(minecraft:grass_block,minecraft:black_terracotta,188,190),(minecraft:grass_block,minecraft:light_gray_terracotta,190,192),(minecraft:grass_block,minecraft:lime_terracotta,192,194),(minecraft:grass_block,minecraft:brown_terracotta,194,196),(minecraft:grass_block,minecraft:green_terracotta,196,198),(minecraft:grass_block,minecraft:black_terracotta,198,200),(minecraft:granite,minecraft:light_gray_terracotta,180,182),(minecraft:granite,minecraft:lime_terracotta,182,184),(minecraft:granite,minecraft:brown_terracotta,184,186),(minecraft:granite,minecraft:green_terracotta,186,188),(minecraft:granite,minecraft:black_terracotta,188,190),(minecraft:granite,minecraft:light_gray_terracotta,190,192),(minecraft:granite,minecraft:lime_terracotta,192,194),(minecraft:granite,minecraft:brown_terracotta,194,196),(minecraft:granite,minecraft:green_terracotta,196,198),(minecraft:granite,minecraft:black_terracotta,198,200),(minecraft:granite,minecraft:light_gray_terracotta,130,132),(minecraft:granite,minecraft:lime_terracotta,132,134),(minecraft:granite,minecraft:brown_terracotta,134,136),(minecraft:granite,minecraft:green_terracotta,136,138),(minecraft:granite,minecraft:black_terracotta,138,140),(minecraft:granite,minecraft:light_gray_terracotta,140,142),(minecraft:granite,minecraft:lime_terracotta,142,144),(minecraft:granite,minecraft:brown_terracotta,144,146),(minecraft:granite,minecraft:green_terracotta,146,148),(minecraft:granite,minecraft:black_terracotta,148,150),(minecraft:granite,minecraft:light_gray_terracotta,150,152),(minecraft:granite,minecraft:lime_terracotta,152,154),(minecraft:granite,minecraft:brown_terracotta,154,156),(minecraft:granite,minecraft:green_terracotta,156,158),(minecraft:granite,minecraft:black_terracotta,158,160),(minecraft:granite,minecraft:light_gray_terracotta,160,162),(minecraft:granite,minecraft:lime_terracotta,162,164),(minecraft:granite,minecraft:brown_terracotta,164,166),(minecraft:granite,minecraft:green_terracotta,166,168),(minecraft:granite,minecraft:black_terracotta,168,170),(minecraft:granite,minecraft:light_gray_terracotta,170,172),(minecraft:granite,minecraft:lime_terracotta,172,174),(minecraft:granite,minecraft:brown_terracotta,174,176),(minecraft:granite,minecraft:green_terracotta,176,178),(minecraft:granite,minecraft:black_terracotta,178,180),(minecraft:granite,minecraft:light_gray_terracotta,120,122),(minecraft:granite,minecraft:lime_terracotta,122,124),(minecraft:granite,minecraft:brown_terracotta,124,126),(minecraft:granite,minecraft:green_terracotta,126,128),(minecraft:granite,minecraft:black_terracotta,128,130),(minecraft:granite,minecraft:light_gray_terracotta,110,112),(minecraft:granite,minecraft:lime_terracotta,112,114),(minecraft:granite,minecraft:brown_terracotta,114,116),(minecraft:granite,minecraft:green_terracotta,116,118),(minecraft:granite,minecraft:black_terracotta,118,120),(minecraft:granite,minecraft:light_gray_terracotta,100,102),(minecraft:granite,minecraft:lime_terracotta,102,104),(minecraft:granite,minecraft:brown_terracotta,104,106),(minecraft:granite,minecraft:green_terracotta,106,108),(minecraft:granite,minecraft:black_terracotta,108,110),(minecraft:granite,minecraft:lime_terracotta,98,100),(minecraft:granite,minecraft:brown_terracotta,96,98),(minecraft:granite,minecraft:green_terracotta,94,96),(minecraft:granite,minecraft:black_terracotta,92,94),(minecraft:granite,minecraft:light_gray_terracotta,90,92),(minecraft:granite,minecraft:lime_terracotta,88,90),(minecraft:granite,minecraft:brown_terracotta,86,88),(minecraft:granite,minecraft:green_terracotta,84,86),(minecraft:granite,minecraft:black_terracotta,82,84),(minecraft:granite,minecraft:light_gray_terracotta,80,82),(minecraft:granite,minecraft:lime_terracotta,78,80),(minecraft:granite,minecraft:brown_terracotta,76,78),(minecraft:granite,minecraft:green_terracotta,74,76),(minecraft:granite,minecraft:black_terracotta,72,74),(minecraft:granite,minecraft:light_gray_terracotta,70,72)
+
+
+#######################################################################
+# |                   Water / Lava & Frozen States                  | #
+#######################################################################
+
+UseWorldWaterLevel: false
+
+WaterLevelMax: 70
+
+WaterLevelMin: 40
+
+WaterBlock: minecraft:water
+
+IceBlock: minecraft:ice
+
+PackedIceBlock: minecraft:packed_ice
+
+SnowBlock: minecraft:snow_block
+
+CooledLavaBlock: minecraft:lava
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                       Visuals and weather                       | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeTemperature: 0.65
+
+UseFrozenOceanTemperature: false
+
+BiomeWetness: 0.9
+
+SkyColor: #7BA5FF
+
+WaterColor: #FFFFFF
+
+WaterColorControl: 
+
+GrassColor: #FFFFFF
+
+GrassColorControl: 
+
+GrassColorModifier: None
+
+FoliageColor: #FFFFFF
+
+FoliageColorControl: 
+
+FogColor: #000000
+
+FogDensity: 0.0
+
+WaterFogColor: #000000
+
+ParticleType: 
+
+ParticleProbability: 0.0
+
+Music: 
+
+MusicMinDelay: 0
+
+MusicMaxDelay: 0
+
+ReplaceCurrentMusic: false
+
+AmbientSound: 
+
+MoodSound: minecraft:ambient.cave
+
+MoodSoundDelay: 6000
+
+MoodSearchRange: 8
+
+MoodOffset: 2.0
+
+AdditionsSound: 
+
+AdditionsTickChance: 0.0
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Resource queue                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+UnderGroundLake(25,60,2,5.0,0,50)
+Ore(minecraft:andesite,16,8,100.0,3,255,otg:stone)
+Ore(minecraft:diorite,16,8,100.0,3,255,otg:stone)
+Ore(minecraft:granite,16,8,100.0,3,255,otg:stone)
+Ore(minecraft:redstone_ore,4,8,100.0,3,16,otg:stone)
+Ore(minecraft:lapis_ore,7,1,100.0,3,16,otg:stone)
+Ore(minecraft:iron_ore,8,5,100.0,3,100,otg:stone)
+Ore(minecraft:iron_ore,6,10,100.0,3,100,otg:stone)
+Ore(minecraft:iron_ore,10,4,100.0,3,80,otg:stone)
+Ore(minecraft:gravel,32,10,100.0,3,255,otg:stone)
+Ore(minecraft:gravel,20,10,100.0,100,255,otg:stone)
+Ore(minecraft:gold_ore,8,1,100.0,3,32,otg:stone)
+Ore(minecraft:emerald_ore,8,1,100.0,3,32,otg:stone)
+Ore(minecraft:dirt,32,10,100.0,3,110,otg:stone)
+Ore(minecraft:diamond_ore,4,4,100.0,3,16,otg:stone)
+Ore(minecraft:coal_ore,16,20,100.0,3,128,otg:stone)
+CustomStructure()
+CustomObject(dungeon)
+Grass(minecraft:grass,NotGrouped,10,100.0,otg:dirt,minecraft:grass_block)
+Plant(minecraft:dandelion,2,100.0,0,255,otg:dirt,minecraft:grass_block,minecraft:farmland)
+Plant(minecraft:poppy,2,100.0,0,255,otg:dirt,minecraft:grass_block,minecraft:farmland)
+Plant(minecraft:pumpkin,1,3.0,0,255,minecraft:grass_block)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Saplings                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Sapling(Oak,Tree,20.0,TreeSwamp03,5.0,TreeSwamp04,5.0,TreeSwamp06,5.0,TreeSwamp07,5.0,TreeSwamp08,5.0,TreeSwamp10,5.0,80,5.0,81,5.0,82,5.0,83,5.0,84,5.0,85,5.0,BigTree,100.0)
+Sapling(Redwood,Taiga1,20.0,pine04,5.0,pine05,5.0,pine06,5.0,pine07,5.0,pine08,5.0,pine09,5.0,pine10,5.0,ME1,5.0,ME2,5.0,ME3,5.0,ME4,5.0,52,5.0,53,5.0,Taiga2,100.0)
+Sapling(Birch,TallBirch,20.0,SA2S,5.0,SA19S,5.0,SA11S,5.0,SA11L,5.0,NA7L,5.0,NA11S,5.0,EUR3S,5.0,Birch,100.0)
+Sapling(SmallJungle,GroundBush,20.0,CocoaTree,20.0,tropicaltree_tiny_01,5.0,tropicaltree_tiny_02,5.0,tropicaltree_tiny_03,5.0,tropicaltree_tiny_04,5.0,tropicaltree_tiny_05,5.0,tropicaltree_tiny_06,5.0,tropicaltree_tiny_07,5.0,tropicaltree_tiny_08,5.0,tropicaltree_tiny_09,5.0,tropicaltree_tiny_10,5.0,CocoaTree,100.0)
+Sapling(BigJungle,JungleTree,50.0,RFGodTree01,1.0,RFGodTree02,1.0,RFMedTree01,2.0,RFMedTree02,2.0,RFMedTree03,2.0,RFTree01,4.0,RFTree05,4.0,RFTree10,4.0,RFTree15,4.0,RFTree20,4.0,RFTree25,4.0,RFTree30,4.0,RFTree35,4.0,JungleTree,100.0)
+Sapling(RedMushroom,MushroomRedWideTall,10.0,MushroomRedWide,10.0,MushroomRedSmall,10.0,MushroomRedMedium,10.0,MushroomRedDiagonal,10.0,HugeRedMushroom,100.0)
+Sapling(BrownMushroom,MushroomRedBrownSplit,10.0,MushroomBrownRedSingle,10.0,HugeMushroom,20.0,HugeBrownMushroom,100.0)
+Sapling(Acacia,Acacia,50.0,AFR3L,5.0,AFR3S,5.0,AFR5S,5.0,AFR6L,5.0,AFR8L,5.0,AFR8S,5.0,AFR9L,5.0,AFR9S,5.0,AFR10L,5.0,AFR10S,5.0,AFR11S,5.0,AFR11L,5.0,AFR12L,5.0,Acacia,100.0)
+Sapling(DarkOak,DarkOak,50.0,Dense01,5.0,Dense02,5.0,Dense03,5.0,Dense04,5.0,Dense05,5.0,Dense06,5.0,Dense07,5.0,Dense08,5.0,Dense09,5.0,Dense10,5.0,DarkOak,100.0)
+Sapling(HugeRedwood,HugeTaiga1,20.0,SpookyTree1,5.0,SpookyTree3,5.0,SpookyTree4,5.0,ME5,5.0,51,5.0,HugeTaiga2,100.0)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                        Vanilla structures                       | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+StrongholdsEnabled: true
+
+WoodlandMansionsEnabled: false
+
+OceanMonumentsEnabled: false
+
+NetherFortressesEnabled: true
+
+VillageType: disabled
+
+VillageSize: 6
+
+MineshaftType: normal
+
+MineshaftProbability: 0.004
+
+RareBuildingType: disabled
+
+BuriedTreasureEnabled: false
+
+BuriedTreasureProbability: 0.01
+
+ShipWreckEnabled: false
+
+ShipWreckBeachedEnabled: false
+
+PillagerOutpostEnabled: false
+
+PillagerOutpostSize: 7
+
+BastionRemnantEnabled: false
+
+BastionRemnantSize: 6
+
+NetherFossilEnabled: false
+
+EndCityEnabled: false
+
+RuinedPortalType: mountain
+
+OceanRuinsType: disabled
+
+OceanRuinsLargeProbability: 0.3
+
+OceanRuinsClusterProbability: 0.9
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                           Mob spawning                          | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+SpawnMonsters: []
+
+SpawnCreatures: []
+
+SpawnWaterCreatures: []
+
+SpawnAmbientCreatures: []
+
+SpawnWaterAmbientCreatures: []
+
+SpawnMiscCreatures: []
+
+InheritMobsBiomeName: minecraft:jungle
+

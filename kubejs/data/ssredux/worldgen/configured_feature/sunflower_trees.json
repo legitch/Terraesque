@@ -1,0 +1,80 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "ssredux:large_sunflower",
+                "chance": 0.1
+              },
+              {
+                "feature": "ssredux:sunflower_top",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:white_tulip",
+                "chance": 0.1
+              },
+              {
+                "feature": "ssredux:large_sunflower1",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:bee_tree",
+                "chance": 0.3
+              },
+              {
+                "feature": "ssredux:honey_pile",
+                "chance": 0.05
+              },
+              {
+                "feature": "ssredux:plains_bush",
+                "chance": 0.3
+              }
+            ],
+            "default": "ssredux:blank"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+              },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+         },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 10,
+        "extra_chance": 0.1,
+        "extra_count": 1
+      },
+      "type": "minecraft:count_extra"
+    }
+  },
+  "type": "minecraft:decorated"
+}

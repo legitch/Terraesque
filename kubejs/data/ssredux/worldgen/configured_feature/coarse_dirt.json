@@ -1,0 +1,60 @@
+{
+  "config": {
+    "max_water_depth": 0,
+    "ignore_vines": true,
+    "heightmap": "MOTION_BLOCKING",
+    "minimum_size": {
+      "limit": 0,
+      "lower_size": 0,
+      "upper_size": 0,
+      "min_clipped_height": 4,
+      "type": "minecraft:two_layers_feature_size"
+    },
+    "decorators": [
+      {
+        "provider": {
+          "state": {
+            "Name": "minecraft:coarse_dirt"
+          },
+          "type": "minecraft:simple_state_provider"
+        },
+        "type": "minecraft:alter_ground"
+      },
+	  {
+		"type": "minecraft:trunk_vine"
+	  }
+	],
+    "trunk_provider": {
+      "state": {
+        "Properties": {
+          "axis": "y"
+        },
+        "Name": "minecraft:oak_log"
+      },
+      "type": "minecraft:simple_state_provider"
+    },
+    "leaves_provider": {
+      "state": {
+        "Properties": {
+          "persistent": "false",
+          "distance": "7"
+        },
+        "Name": "minecraft:oak_leaves"
+      },
+      "type": "minecraft:simple_state_provider"
+    },
+    "foliage_placer": {
+      "radius": 0,
+      "offset": 0,
+      "height": 0,
+      "type": "minecraft:fancy_foliage_placer"
+    },
+    "trunk_placer": {
+      "base_height": 0,
+      "height_rand_a": 0,
+      "height_rand_b": 0,
+      "type": "minecraft:fancy_trunk_placer"
+    }
+  },
+  "type": "minecraft:tree"
+}

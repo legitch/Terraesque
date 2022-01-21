@@ -1,0 +1,34 @@
+{
+  "name": "Intangibility",
+  "description": "Increased swim speed and cannot drown.",
+  "type": "origins:multiple",
+  "modify_swim_speed": {
+    "type": "origins:modify_swim_speed",
+    "modifier": {
+      "name": "Additional swim speed",
+      "value": 1.5,
+      "operation": "multiply_base"
+    }
+  },
+  "invulnerability": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "drown"
+    }
+  },
+  "action_over_time": {
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:gain_air",
+      "value": 25
+    },
+    "interval": 20,
+    "conditions": {
+        "type": "origins:fluid_height",
+        "fluid": "minecraft:water",
+        "comparison": ">",
+        "compare_to": 0.0
+      }
+  }
+}

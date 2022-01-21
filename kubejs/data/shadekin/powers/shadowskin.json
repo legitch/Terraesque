@@ -1,0 +1,6 @@
+{
+    "type": "origins:model_color",
+    "alpha": 0.5,
+	"name": "Shadow Skin",
+	"description":"Being made of shadows, you appear transparent."
+}

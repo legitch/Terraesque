@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:soul_sand"
+    },
+    "addition": {
+        "item": "minecraft:campfire"
+    },
+    "result": {
+        "item": "minecraft:soul_campfire"
+    }
+}

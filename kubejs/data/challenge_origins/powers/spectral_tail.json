@@ -1,0 +1,15 @@
+{
+  "type": "origins:restrict_armor",
+  "legs": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "feet": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "name": "Spectral Tail",
+  "description": "Cannot wear leggings or boots, not that the armor means anything (or does it?)."
+}

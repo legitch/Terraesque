@@ -1,0 +1,25 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "block": "minecraft:lava",
+          "predicate_type": "minecraft:block_match"
+        },
+        "state": {
+          "Name": "minecraft:stone"
+        },
+        "size": 50
+      },
+      "type": "minecraft:ore"
+    },
+    "decorator": {
+      "config": {
+        "step": "air",
+        "probability": 100
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,24 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "reach": {
+          "base": 4,
+          "spread": 2
+        },
+        "height": {
+          "base": 12,
+          "spread": 5
+        }
+      },
+      "type": "minecraft:basalt_columns"
+    },
+    "decorator": {
+      "config": {
+        "count": 5
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:nether_forest",
+  "config": {
+    "top_material": {
+      "Name": "minecraft:grass_block",
+      "Properties": {
+        "snowy": "false"
+      }
+    },
+    "under_material": {
+      "Name": "minecraft:terracotta"
+    },
+    "underwater_material": {
+      "Name": "minecraft:mycelium",
+      "Properties": {
+        "snowy": "false"
+      }
+    }
+  }
+}

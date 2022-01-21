@@ -1,0 +1,39 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "to_place": {
+          "Name": "minecraft:andesite",
+          "Properties": {
+            "persistent": "true",
+            "distance": "1"
+          }
+        },
+        "place_on": [
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ],
+        "place_in": [
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ],
+        "place_under": [
+          {
+            "Name": "minecraft:stone"
+          }
+        ]
+      },
+      "type": "minecraft:simple_block"
+    },
+    "decorator": {
+      "config": {
+        "step": "air",
+        "probability": 0.5
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

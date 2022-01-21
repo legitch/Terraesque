@@ -1,0 +1,93 @@
+{
+  "name": "Holy Mantle",
+  "description": "On hit, negate and protect yourself from damage taken and remove all damage over time effects on yourself. 20 second cooldown.",
+  "type": "origins:multiple",
+  "modify_damage_taken": {
+    "type": "origins:modify_damage_taken",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "challenge_origins:holy_mantle_cooldown",
+      "comparison": "==",
+      "compare_to": 0
+    },
+    "modifier": {
+      "name": "Block first hit",
+      "operation": "multiply_total",
+      "value": -1
+    }
+  },
+  "self_action_when_hit": {
+    "type": "origins:self_action_when_hit",
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:trigger_cooldown",
+          "power": "challenge_origins:holy_mantle_cooldown"
+        },
+        {
+          "type": "origins:extinguish"
+        },
+        {
+          "type": "origins:clear_effect",
+          "effect": "minecraft:poison"
+        },
+        {
+          "type": "origins:clear_effect",
+          "effect": "minecraft:wither"
+        },
+        {
+          "type": "origins:play_sound",
+          "sound": "minecraft:block.glass.break"
+        },
+        {
+          "type": "origins:play_sound",
+          "sound": "botania:holy_cloak"
+        },
+        {
+          "type": "origins:apply_effect",
+          "effect": {
+            "effect": "minecraft:resistance",
+            "duration": 20,
+            "amplifier": 4,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": false
+          }
+        }
+      ]
+    },
+    "cooldown": 400
+  },
+  "effect_immunity": {
+    "type": "origins:effect_immunity",
+    "effects": [
+      "minecraft:poison",
+      "minecraft:wither"
+    ],
+    "condition": {
+      "type": "origins:resource",
+      "resource": "challenge_origins:holy_mantle_cooldown",
+      "comparison": ">",
+      "compare_to": 280
+    }
+  },
+  "fire_immunity": {
+    "type": "origins:fire_immunity",
+    "condition": {
+      "type": "origins:resource",
+      "resource": "challenge_origins:holy_mantle_cooldown",
+      "comparison": ">",
+      "compare_to": 280
+    }
+  },
+  "cooldown": {
+    "type": "origins:cooldown",
+    "cooldown": 400,
+    "hud_render": {
+      "should_render": true,
+      "sprite_location": "origins:textures/gui/resource_bar_custom.png",
+      "bar_index": 0
+    }
+  }
+}

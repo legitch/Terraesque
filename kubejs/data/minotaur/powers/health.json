@@ -1,0 +1,13 @@
+{
+    "type": "origins:attribute",
+    "modifiers": [
+        {
+            "operation": "addition",
+            "value": 4,
+            "attribute": "minecraft:generic.max_health",
+            "name": "minotaur health"
+        }
+    ],
+    "name": "Tough.",
+    "description": "Your time spent in the labyrinth made you more resilient."
+}

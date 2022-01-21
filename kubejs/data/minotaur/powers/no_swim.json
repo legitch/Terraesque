@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_swim_speed",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": -0.95
+    },
+    "name": "Sturdy",
+    "description": "Your legs weren't made for swimming. Because of that, you can't swim."
+}

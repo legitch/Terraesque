@@ -1,0 +1,79 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "ssredux:blue_spruce",
+                "chance": 0.4
+              },
+              {
+                "feature": "ssredux:blue_spruce1",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:redwood1",
+                "chance": 0.5
+              },
+              {
+                "feature": "ssredux:blue_redwood",
+                "chance": 0.4
+              },
+              {
+                "feature": "ssredux:weeping_oak",
+                "chance": 0.3
+              },
+              {
+                "feature": "ssredux:weeping_oak2",
+                "chance": 0.7
+              },
+              {
+                "feature": "ssredux:redwood",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:blue_redwood1",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:scrab1",
+                "chance": 0.4
+              },
+              {
+                "feature": "ssredux:birch_bush",
+                "chance": 0.4
+              }
+            ],
+            "default": "minecraft:spruce"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 10,
+        "extra_chance": 0.1,
+        "extra_count": 1
+      },
+      "type": "minecraft:count_extra"
+    }
+  },
+  "type": "minecraft:decorated"
+}

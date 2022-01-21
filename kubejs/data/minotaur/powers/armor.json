@@ -1,0 +1,15 @@
+{
+  "type": "origins:restrict_armor",
+  "legs": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "feet": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "name":"Minotaur Physiology",
+  "description":"Your minotaur legs offer no possibiliy of wearing normal leggings and boots."
+}

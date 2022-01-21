@@ -1,0 +1,52 @@
+{
+  "replace": true,
+  "order": 0,
+  "enabled": true,
+  "origins": [
+    "origins:human",
+    "challenge_origins:vegetarian",
+    "challenge_origins:merfolk",
+    "challenge_origins:drow_elf",
+    "challenge_origins:lost_soul",
+    "challenge_origins:abomination",
+    {
+      "condition": {
+        "type": "origins:and",
+        "conditions": [
+          {
+            "type": "origins:daytime"
+          },
+          {
+            "type": "origins:daytime",
+            "inverted": true
+          }
+        ]
+      },
+      "origins": [
+        "origins:arachnid",
+        "origins:avian",
+        "origins:blazeborn",
+        "origins:elytrian",
+        "origins:enderian",
+        "origins:feline",
+        "origins:human",
+        "origins:merling",
+        "origins:phantom",
+        "origins:shulk",
+        "grounded_origins:beach_crab",
+        "grounded_origins:deer",
+        "grounded_origins:moth",
+        "grounded_origins:penguin",
+        "minotaur:minotaur",
+        "caldera:demon",
+        "shadekin:shade"
+      ]
+    }
+  ],
+  "allow_random": false,
+  "exclude_random": [
+    "origins:human"
+  ],
+  "allow_random_unchoosable": false,
+  "name": "affliction"
+}

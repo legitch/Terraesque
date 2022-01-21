@@ -1,0 +1,33 @@
+{
+  "name": "wythers:village/forest/town_centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "wythers:village/forest/town_centers/forest_fountain_01",
+        "processors": "wythers:street_forest",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "wythers:village/forest/town_centers/forest_meeting_point_1",
+        "processors": "wythers:street_forest",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "wythers:village/forest/town_centers/forest_meeting_point_2",
+        "processors": "wythers:forest_ruins",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

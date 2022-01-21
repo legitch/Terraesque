@@ -1,0 +1,137 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2022-01-21 00:24:32 -0500"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-21 00:29:39 -0500"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/root": {
+    "criteria": {
+      "tick": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-01-21 00:29:39 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-01-21 00:29:39 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-01-21 00:29:39 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-01-21 00:29:39 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/forbidden_fruit": {
+    "criteria": {
+      "has_items": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2022-01-21 00:24:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-01-21 00:29:39 -0500"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2022-01-21 00:13:05 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2022-01-21 00:13:05 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2022-01-21 00:26:15 -0500",
+      "minecraft:taiga": "2022-01-21 00:13:05 -0500",
+      "minecraft:snowy_tundra": "2022-01-21 00:26:23 -0500",
+      "minecraft:frozen_river": "2022-01-21 00:29:31 -0500",
+      "minecraft:birch_forest": "2022-01-21 00:21:26 -0500",
+      "abundance:lavender_fields": "2022-01-21 00:37:33 -0500",
+      "minecraft:river": "2022-01-21 00:30:03 -0500",
+      "minecraft:forest": "2022-01-21 00:24:19 -0500",
+      "minecraft:snowy_beach": "2022-01-21 00:26:37 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

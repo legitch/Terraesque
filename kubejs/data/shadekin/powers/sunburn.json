@@ -1,0 +1,47 @@
+{
+  "type": "origins:burn",
+  "interval": 20,
+  "burn_duration": 6,
+  "condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:or",
+        "conditions": [
+          {
+            "type": "origins:in_block",
+            "block_condition": {
+              "type": "origins:or",
+              "conditions": [
+                {
+                  "type": "origins:light_level",
+                  "light_type": "sky",
+                  "comparison": ">",
+                  "compare_to": 7
+                },
+                {
+                  "type": "origins:offset",
+                  "condition": {
+                    "type": "origins:light_level",
+                    "light_type": "sky",
+                    "comparison": ">",
+                    "compare_to": 7
+                  },
+                  "y": 1
+                }
+              ]
+            }
+          },
+          {
+            "type": "origins:exposed_to_sky"
+          }
+        ]
+      },
+      {
+        "type": "origins:daytime"
+      }
+    ]
+  },
+  "name": "Bright Sunlight",
+  "description": "You will burn in direct sunlight"
+}

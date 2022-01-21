@@ -1,0 +1,58 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": -20,
+    "max_stacks": 15,
+    "duration_per_stack": 3,
+    "effects": [
+        {
+            "effect": "minecraft:resistance",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+    "condition": {
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:in_block",
+          "block_condition": {
+            "type": "origins:and",
+            "conditions": [
+              {
+                "type": "origins:light_level",
+                "light_type": "sky",
+                "comparison": "<=",
+                "compare_to": 7
+              },
+              {
+                "type": "origins:offset",
+                "condition": {
+                  "type": "origins:light_level",
+                  "light_type": "sky",
+                  "comparison": "<=",
+                  "compare_to": 7
+                },
+                "y": 1
+              }
+            ]
+          }
+        },
+        {
+          "type": "origins:and",
+          "conditions": [
+            {
+              "type": "origins:exposed_to_sun",
+              "inverted": true
+            },
+            {
+              "type": "origins:exposed_to_sky",
+              "inverted": true
+            }
+          ]
+        }
+      ]
+    },
+	"name": "Surrounded In Darkness",
+	"description": "Bigger shadows means greater defense. When surrounded in darkness, you gain resistance."
+}

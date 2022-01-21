@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:bucket"
+    },
+    "addition": {
+        "item": "minecraft:yellow_wool"
+    },
+    "result": {
+        "item": "minecraft:milk_bucket"
+    }
+}

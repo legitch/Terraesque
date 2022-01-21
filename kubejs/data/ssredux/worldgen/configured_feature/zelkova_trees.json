@@ -1,0 +1,55 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "ssredux:spruce4",
+                "chance": 0.3
+              },
+              {
+                "feature": "ssredux:spruce6",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:spruce",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:redwood",
+                "chance": 0.07
+              }
+            ],
+            "default": "ssredux:spruce3"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+             },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 100,
+        "noise_factor": 200,
+        "noise_offset": -0.5
+      }
+    }
+  },
+  "type": "minecraft:decorated"
+}

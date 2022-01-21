@@ -1,0 +1,61 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "to_place": {
+                  "Name": "minecraft:grass_block",
+                  "Properties": {
+                    "snowy": "false"
+                  }
+                },
+                "place_on": [
+                  {
+                    "Name": "minecraft:stone"
+                  }
+                ],
+                "place_in": [
+                  {
+                    "Name": "minecraft:stone"
+                  }
+                ],
+                "place_under": [
+                  {
+                    "Name": "minecraft:cave_air"
+                  }
+                ]
+              },
+              "type": "minecraft:simple_block"
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 0,
+                "top_offset": 0,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 30000,
+        "extra_chance": 0,
+        "extra_count": 0
+      },
+      "type": "minecraft:count_extra"
+    }
+  },
+  "type": "minecraft:decorated"
+}

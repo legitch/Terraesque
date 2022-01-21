@@ -1,0 +1,11 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 10,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "permission_level": 4,
+        "command": "execute as @s run function minotaur:milk1"
+    },
+    "name": "Milk-able Minotaur",
+	"description": "You can milk yourself every day or so. That mystical milk can regenerate anyone that drinks it."
+}

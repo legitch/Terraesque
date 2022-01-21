@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "O",
+        "/"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:flint"
+        },
+        "O": {
+            "item": "minecraft:oak_planks"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

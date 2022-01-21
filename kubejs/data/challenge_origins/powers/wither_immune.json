@@ -1,0 +1,12 @@
+{
+  "name": "Invein",
+  "description": "You are immune to damage over time effects.",
+  "type": "origins:multiple",
+  "effect_immunity": {
+    "type": "origins:effect_immunity",
+    "effects": [
+      "minecraft:poison",
+      "minecraft:wither"
+    ]
+  }
+}

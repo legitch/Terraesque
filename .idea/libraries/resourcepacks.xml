@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="resourcepacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resourcepacks/xali's Enhanced Vanilla v1.9.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/BetterEnderDragon-1.16.x.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/EclecticTrove-1.16.5-1.0.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Quark Programmer Art.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resourcepacks/Infernal Resources.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

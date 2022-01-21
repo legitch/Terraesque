@@ -1,0 +1,35 @@
+{
+  "hidden": true,
+  "type": "origins:action_on_callback",
+  "entity_action_chosen": {
+    "type": "origins:play_sound",
+    "sound": "minecraft:entity.vex.ambient"
+  },
+  "entity_action_lost": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:feed",
+        "food": 4,
+        "saturation": 1.2
+      },
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:regeneration",
+          "duration": 100,
+          "amplifier": 1
+        }
+      },
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:absorption",
+          "duration": 2400,
+          "amplifier": 0
+        }
+      }
+    ]
+  },
+  "execute_chosen_when_orb": true
+}

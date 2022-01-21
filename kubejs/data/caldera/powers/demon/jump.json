@@ -1,0 +1,59 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:add_velocity",
+                "z": 0.6,
+                "space": "local"
+            },
+			{
+                "type": "origins:add_velocity",
+                "y": 0.4
+            },
+			{
+				"type": "origins:play_sound",
+				"sound": "minecraft:entity.ender_dragon.flap"
+			},
+            {
+                "type": "origins:exhaust",
+                "amount": 0.6
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "particle minecraft:cloud ~ ~1 ~ 0 0.3 0 1 150 normal",
+                "permission_level": 4
+            }
+        ]
+    },
+    "cooldown": 100,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/resource_bar.png",
+        "bar_index": 5
+    },
+  	"condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:fall_flying",
+                "inverted": true
+            },
+            {
+                "type": "origins:submerged_in",
+                "fluid": "minecraft:water",
+                "inverted": true
+            },
+            {
+                "type": "origins:sneaking",
+                "inverted": true
+            }
+        ]
+    },
+    "key": {
+        "key": "key.origins.primary_active"
+    },
+    "name": "Leap [Primary]",
+	"description": "You can perform a long jump by pressing [Primary] key."
+}

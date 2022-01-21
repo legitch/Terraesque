@@ -1,0 +1,17 @@
+{
+	"name": "Shadekin",
+	"description": "You don't just live in the shadows; you are partially made FROM shadows.",
+	"powers": [
+		"shadekin:sunburn",
+		"shadekin:shadowskin",
+		"shadekin:shadesneak",
+		"shadekin:lightweakness",
+		"shadekin:darkvision",
+		"shadekin:bold",
+		"shadekin:home",
+		"shadekin:form"
+	],
+	"icon": "forbidden_arcanus:dark_matter",
+	"order": 1,
+	"impact": 3
+}

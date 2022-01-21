@@ -1,0 +1,128 @@
+{
+  "scale": -0.07,
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "sky_color": 5421806,
+    "fog_color": 12638463,
+    "water_color": 4445678,
+    "water_fog_color": 270131
+  },
+  "surface_builder": "wythers:mushroom_shore",
+  "carvers": {
+    "air": [],
+    "liquid": [
+      "minecraft:underwater_cave"
+    ]
+  },
+  "features": [
+    [
+      "wythers:underground_rivers/carver/0",
+      "wythers:underground_rivers/carver/1",
+      "wythers:underground_rivers/carver/2",
+      "wythers:underground_rivers/carver/3",
+      "wythers:underground_rivers/carver/4",
+      "wythers:underground_rivers/carver/5",
+      "wythers:underground_rivers/carver/6",
+      "wythers:underground_rivers/carver/7",
+      "wythers:generic/disk_sand_beach",
+      "wythers:desert/oasis_vegetation",
+      "minecraft:patch_grass_forest"
+    ],
+    [
+      "wythers:underground_rivers/surface/sand_1",
+	  "wythers:underground_rivers/surface/sand_2"
+    ],
+    [
+      "wythers:underground_rivers/decoration/seagrass"
+    ],
+    [
+      "minecraft:monster_room"
+    ],
+    [],
+    [],
+    [
+      "wythers:mushroom_fields/disk_sand_seafloor",
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "wythers:mushroom_fields/ore_grass_block_to_sand"
+    ],
+    [],
+    [
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "wythers:generic/patch_stones_south_2",
+      "wythers:generic/patch_stones_east_2",
+      "minecraft:warm_ocean_vegetation",
+      "wythers:underground_rivers/carver/8",
+      "wythers:underground_rivers/carver/9",
+      "wythers:underground_rivers/carver/10",
+      "wythers:underground_rivers/carver/11",
+      "wythers:underground_rivers/decoration/cave_vines",
+      "wythers:underground_rivers/decoration/cave_vines_extension"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "starts": [
+    "minecraft:mineshaft",
+    "minecraft:buried_treasure",
+    "minecraft:shipwreck_beached",
+    "minecraft:ruined_portal"
+  ],
+  "spawners": {
+    "monster": [],
+    "creature": [
+      {
+        "type": "minecraft:pig",
+        "weight": 10,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:chicken",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:turtle",
+        "weight": 5,
+        "minCount": 2,
+        "maxCount": 5
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "temperature": 0.9,
+  "downfall": 0.8,
+  "category": "beach",
+  "depth": 0.0
+}

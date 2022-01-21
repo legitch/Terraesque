@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:rabbit_hide"
+        },
+        {
+            "item": "minecraft:rabbit_hide"
+        },
+        {
+            "item": "minecraft:rabbit_hide"
+        },
+        {
+            "item": "minecraft:rabbit_hide"
+        },
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "item": "minecraft:rabbit_hide"
+        },
+        {
+            "item": "minecraft:string"
+        },
+        {
+            "item": "minecraft:string"
+        }
+    ],
+    "result": {
+        "item": "minecraft:saddle",
+        "count": 1
+    }
+}

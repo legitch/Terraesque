@@ -1,0 +1,9 @@
+{
+  "name": "Faster Mining",
+  "description": "Increased mine speed.",
+  "type": "origins:modify_break_speed",
+  "modifier": {
+    "operation": "multiply_total",
+    "value": 0.4
+  }
+}

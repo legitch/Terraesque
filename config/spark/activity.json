@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Legitch",
+      "uniqueId": "64906813-adac-4aa9-8ac9-f25dbb677102"
+    },
+    "time": 1642734948541,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/iuBJEbywIN"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Legitch",
+      "uniqueId": "64906813-adac-4aa9-8ac9-f25dbb677102"
+    },
+    "time": 1642727035607,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Uhz5PSCENV"
+    }
+  }
+]

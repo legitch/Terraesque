@@ -1,0 +1,340 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 125
+      }
+    },
+    "feature": {
+      "type": "minecraft:simple_random_selector",
+      "config": {
+        "features": [
+          {
+            "type": "minecraft:random_patch",
+            "config": {
+              "can_replace": true,
+              "project": false,
+              "need_water": false,
+              "xspread": 0,
+              "yspread": 27,
+              "zspread": 0,
+              "tries": 149,
+              "state_provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 5,
+                    "data": {
+                      "Name": "minecraft:blackstone"
+                    }
+                  },
+                  {
+                    "weight": 2,
+                    "data": {
+                      "Name": "minecraft:magma_block"
+                    }
+                  }
+                ]
+              },
+              "block_placer": {
+                "type": "minecraft:column_placer",
+                "min_size": 5,
+                "extra_size": 2
+              },
+              "whitelist": [
+                {
+                  "Name": "minecraft:blackstone"
+                },
+                {
+                  "Name": "minecraft:magma_block"
+                },
+                {
+                  "Name": "minecraft:andesite"
+                }
+              ],
+              "blacklist": []
+            }
+          },
+          {
+            "type": "minecraft:random_patch",
+            "config": {
+              "can_replace": true,
+              "project": false,
+              "need_water": false,
+              "xspread": 2,
+              "yspread": 26,
+              "zspread": 3,
+              "tries": 170,
+              "state_provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 5,
+                    "data": {
+                      "Name": "minecraft:blackstone"
+                    }
+                  },
+                  {
+                    "weight": 2,
+                    "data": {
+                      "Name": "minecraft:magma_block"
+                    }
+                  }
+                ]
+              },
+              "block_placer": {
+                "type": "minecraft:column_placer",
+                "min_size": 5,
+                "extra_size": 5
+              },
+              "whitelist": [
+                {
+                  "Name": "minecraft:blackstone"
+                },
+                {
+                  "Name": "minecraft:magma_block"
+                },
+                {
+                  "Name": "minecraft:andesite"
+                }
+              ],
+              "blacklist": []
+            }
+          },
+          {
+            "type": "minecraft:random_patch",
+            "config": {
+              "can_replace": true,
+              "project": false,
+              "need_water": false,
+              "xspread": 3,
+              "yspread": 22,
+              "zspread": 5,
+              "tries": 180,
+              "state_provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 5,
+                    "data": {
+                      "Name": "minecraft:blackstone"
+                    }
+                  },
+                  {
+                    "weight": 2,
+                    "data": {
+                      "Name": "minecraft:magma_block"
+                    }
+                  }
+                ]
+              },
+              "block_placer": {
+                "type": "minecraft:column_placer",
+                "min_size": 4,
+                "extra_size": 5
+              },
+              "whitelist": [
+                {
+                  "Name": "minecraft:blackstone"
+                },
+                {
+                  "Name": "minecraft:magma_block"
+                },
+                {
+                  "Name": "minecraft:andesite"
+                }
+              ],
+              "blacklist": []
+            }
+          },
+          {
+            "type": "minecraft:random_patch",
+            "config": {
+              "can_replace": true,
+              "project": false,
+              "need_water": false,
+              "xspread": 4,
+              "yspread": 18,
+              "zspread": 2,
+              "tries": 135,
+              "state_provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 5,
+                    "data": {
+                      "Name": "minecraft:blackstone"
+                    }
+                  },
+                  {
+                    "weight": 2,
+                    "data": {
+                      "Name": "minecraft:magma_block"
+                    }
+                  }
+                ]
+              },
+              "block_placer": {
+                "type": "minecraft:column_placer",
+                "min_size": 4,
+                "extra_size": 3
+              },
+              "whitelist": [
+                {
+                  "Name": "minecraft:blackstone"
+                },
+                {
+                  "Name": "minecraft:magma_block"
+                },
+                {
+                  "Name": "minecraft:andesite"
+                }
+              ],
+              "blacklist": []
+            }
+          },
+          {
+            "type": "minecraft:random_patch",
+            "config": {
+              "can_replace": true,
+              "project": false,
+              "need_water": false,
+              "xspread": 5,
+              "yspread": 7,
+              "zspread": 2,
+              "tries": 111,
+              "state_provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 5,
+                    "data": {
+                      "Name": "minecraft:blackstone"
+                    }
+                  },
+                  {
+                    "weight": 2,
+                    "data": {
+                      "Name": "minecraft:magma_block"
+                    }
+                  }
+                ]
+              },
+              "block_placer": {
+                "type": "minecraft:column_placer",
+                "min_size": 3,
+                "extra_size": 5
+              },
+              "whitelist": [
+                {
+                  "Name": "minecraft:blackstone"
+                },
+                {
+                  "Name": "minecraft:magma_block"
+                },
+                {
+                  "Name": "minecraft:andesite"
+                }
+              ],
+              "blacklist": []
+            }
+          },
+          {
+            "type": "minecraft:random_patch",
+            "config": {
+              "can_replace": true,
+              "project": false,
+              "need_water": false,
+              "xspread": 5,
+              "yspread": 5,
+              "zspread": 5,
+              "tries": 112,
+              "state_provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 5,
+                    "data": {
+                      "Name": "minecraft:blackstone"
+                    }
+                  },
+                  {
+                    "weight": 2,
+                    "data": {
+                      "Name": "minecraft:magma_block"
+                    }
+                  }
+                ]
+              },
+              "block_placer": {
+                "type": "minecraft:column_placer",
+                "min_size": 3,
+                "extra_size": 3
+              },
+              "whitelist": [
+                {
+                  "Name": "minecraft:blackstone"
+                },
+                {
+                  "Name": "minecraft:magma_block"
+                },
+                {
+                  "Name": "minecraft:andesite"
+                }
+              ],
+              "blacklist": []
+            }
+          },
+          {
+            "type": "minecraft:random_patch",
+            "config": {
+              "can_replace": true,
+              "project": false,
+              "need_water": false,
+              "xspread": 7,
+              "yspread": 2,
+              "zspread": 5,
+              "tries": 120,
+              "state_provider": {
+                "type": "minecraft:weighted_state_provider",
+                "entries": [
+                  {
+                    "weight": 5,
+                    "data": {
+                      "Name": "minecraft:blackstone"
+                    }
+                  },
+                  {
+                    "weight": 2,
+                    "data": {
+                      "Name": "minecraft:magma_block"
+                    }
+                  }
+                ]
+              },
+              "block_placer": {
+                "type": "minecraft:column_placer",
+                "min_size": 1,
+                "extra_size": 2
+              },
+              "whitelist": [
+                {
+                  "Name": "minecraft:blackstone"
+                },
+                {
+                  "Name": "minecraft:magma_block"
+                },
+                {
+                  "Name": "minecraft:andesite"
+                }
+              ],
+              "blacklist": []
+            }
+          }
+        ]
+      }
+    }
+  }
+}

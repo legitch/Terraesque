@@ -1,0 +1,12 @@
+{
+  "inventory": {
+    "0:6": "{id:\"antiqueatlas:empty_antique_atlas\",Count:1b}",
+    "0:0": "{id:\"minecraft:wooden_sword\",Count:1b,tag:{Damage:0}}",
+    "0:8": "{id:\"enigmaticlegacy:forbidden_fruit\",Count:1b}",
+    "0:1": "{id:\"minecraft:wooden_pickaxe\",Count:1b,tag:{Damage:0}}",
+    "0:3": "{id:\"minecraft:wooden_shovel\",Count:1b,tag:{Damage:0}}",
+    "0:2": "{id:\"minecraft:wooden_axe\",Count:1b,tag:{Damage:0}}",
+    "0:7": "{id:\"enigmaticlegacy:cursed_ring\",Count:1b}"
+  },
+  "wipeBlacklist": []
+}

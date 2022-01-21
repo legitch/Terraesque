@@ -1,0 +1,17 @@
+{
+  "config": {
+    "top_material": {
+      "Properties": {
+        "snowy": "false"
+      },
+      "Name": "minecraft:smooth_red_sandstone"
+    },
+    "under_material": {
+      "Name": "minecraft:red_sandstone"
+    },
+    "underwater_material": {
+      "Name": "minecraft:red_sandstone"
+    }
+  },
+  "type": "minecraft:nether_forest"
+}

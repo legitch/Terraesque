@@ -1,0 +1,37 @@
+{
+  "type": "origins:multiple",
+  "shield": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "origins:shields"
+      }
+    }
+  },
+  "armor": {
+    "type": "origins:restrict_armor",
+    "head": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 2
+    },
+    "chest": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 5
+    },
+    "legs": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 4
+    },
+    "feet": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 1
+    }
+  },
+  "name": "Not-so-solid Form",
+  "description": "Due to being partially made of darkness, you cannot hold shields or wear armor that is too heavy."
+}

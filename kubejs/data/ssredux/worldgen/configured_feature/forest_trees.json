@@ -1,0 +1,91 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "ssredux:oak",
+                "chance": 0.3
+              },
+              {
+                "feature": "ssredux:birch",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:spruce",
+                "chance": 0.04
+              },
+              {
+                "feature": "ssredux:pine",
+                "chance": 0.03
+              },
+              {
+                "feature": "ssredux:birch_fancy",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:oak_fancy",
+                "chance": 0.5
+              },
+              {
+                "feature": "ssredux:pine",
+                "chance": 0.02
+              },
+	      {
+                "feature": "ssredux:oak_bush",
+                "chance": 0.2
+              },
+              {
+                "feature": "ssredux:stone_mound",
+                "chance": 0.057
+              },
+	      {
+                "feature": "ssredux:oak_mound",
+                "chance": 0.01
+              },
+              {
+                "feature": "ssredux:birch_mound",
+                "chance": 0.0091
+              },
+              {
+                "feature": "ssredux:coarse_dirt",
+                "chance": 0.075
+              },
+              {
+                "feature": "ssredux:gravel",
+                "chance": 0.075
+              }
+            ],
+            "default": "ssredux:oak_fancy"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 10,
+        "extra_chance": 0.1,
+        "extra_count": 1
+      },
+      "type": "minecraft:count_extra"
+    }
+  },
+  "type": "minecraft:decorated"
+}

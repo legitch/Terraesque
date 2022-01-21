@@ -1,0 +1,79 @@
+{
+  "type": "minecraft:tree",
+  "config": {
+    "max_water_depth": 255,
+    "ignore_vines": false,
+    "heightmap": "OCEAN_FLOOR",
+    "minimum_size": {
+      "type": "minecraft:two_layers_feature_size"
+    },
+    "trunk_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Name": "minecraft:jungle_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        }
+      ]
+    },
+    "leaves_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Name": "minecraft:air"
+          }
+        },
+        {
+          "weight": 6,
+          "data": {
+            "Name": "minecraft:jungle_leaves",
+            "Properties": {
+              "distance": "7",
+              "persistent": "true"
+            }
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:brown_mushroom_block",
+            "Properties": {
+              "down": "true",
+              "east": "true",
+              "north": "true",
+              "south": "true",
+              "up": "true",
+              "west": "true"
+            }
+          }
+        }
+      ]
+    },
+    "trunk_placer": {
+      "type": "minecraft:forking_trunk_placer",
+      "base_height": 3,
+      "height_rand_a": 3,
+      "height_rand_b": 6
+    },
+    "foliage_placer": {
+      "type": "minecraft:acacia_foliage_placer",
+      "radius": 1,
+      "offset": 1
+    },
+    "decorators": [
+      {
+        "type": "minecraft:leave_vine"
+      },
+      {
+        "type": "minecraft:trunk_vine"
+      }
+    ]
+  }
+}

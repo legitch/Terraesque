@@ -1,0 +1,321 @@
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Biome Identity                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+TemplateForBiome: false
+
+BiomeDictTags: OVERWORLD, JUNGLE, WET, HOT, HILLS
+
+BiomeCategory: jungle
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                         Biome placement                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeSize: 4
+
+BiomeRarity: 100
+
+BiomeColor: #686512
+
+
+#######################################################################
+# |                           Isle biomes                           | #
+#######################################################################
+
+IsleInBiome: 
+
+BiomeSizeWhenIsle: 7
+
+BiomeRarityWhenIsle: 100
+
+#################
+# Border biomes #
+#################
+
+BiomeIsBorder: 
+
+OnlyBorderNear: 
+
+NotBorderNear: 
+
+BiomeSizeWhenBorder: 7
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                  Terrain height and volatility                  | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeHeight: -0.6
+
+BiomeVolatility: 0.2
+
+SmoothRadius: 4
+
+CustomHeightControlSmoothRadius: 2
+
+MaxAverageHeight: 0.0
+
+MaxAverageDepth: 0.0
+
+Volatility1: -9.0
+
+Volatility2: 0.6
+
+VolatilityWeight1: 3.5
+
+VolatilityWeight2: 0.45
+
+DisableBiomeHeight: false
+
+CustomHeightControl: 0.0, -1000.0, -2300.0, -2500.0, -2500.0, -500.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Rivers                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+RiverBiome: River
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Blocks                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+StoneBlock: minecraft:stone
+
+SurfaceBlock: minecraft:grass_block
+
+GroundBlock: minecraft:stone
+
+UnderWaterSurfaceBlock: minecraft:stone
+
+SurfaceAndGroundControl: minecraft:grass_block, minecraft:grass_block, minecraft:granite, -10.0, minecraft:grass_block, minecraft:grass_block, minecraft:granite, -0.8 
+
+ReplacedBlocks: (minecraft:water,minecraft:air,10,65),(minecraft:granite,minecraft:grass_block,10,15),(otg:dirt,minecraft:grass_block,10,15),(minecraft:water,minecraft:lava,0,9)
+
+
+#######################################################################
+# |                   Water / Lava & Frozen States                  | #
+#######################################################################
+
+UseWorldWaterLevel: false
+
+WaterLevelMax: 70
+
+WaterLevelMin: 0
+
+WaterBlock: minecraft:water
+
+IceBlock: minecraft:ice
+
+PackedIceBlock: minecraft:packed_ice
+
+SnowBlock: minecraft:snow_block
+
+CooledLavaBlock: minecraft:obsidian
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                       Visuals and weather                       | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeTemperature: 0.95
+
+UseFrozenOceanTemperature: false
+
+BiomeWetness: 0.9
+
+SkyColor: #7BA5FF
+
+WaterColor: #007C47
+
+WaterColorControl: 
+
+GrassColor: #FFFFFF
+
+GrassColorControl: 
+
+GrassColorModifier: None
+
+FoliageColor: #FFFFFF
+
+FoliageColorControl: 
+
+FogColor: #000000
+
+FogDensity: 0.0
+
+WaterFogColor: #000000
+
+ParticleType: 
+
+ParticleProbability: 0.0
+
+Music: 
+
+MusicMinDelay: 0
+
+MusicMaxDelay: 0
+
+ReplaceCurrentMusic: false
+
+AmbientSound: 
+
+MoodSound: minecraft:ambient.cave
+
+MoodSoundDelay: 6000
+
+MoodSearchRange: 8
+
+MoodOffset: 2.0
+
+AdditionsSound: 
+
+AdditionsTickChance: 0.0
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Resource queue                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Tree(2,Creeping_Death,30,Dismemberer,30,Frozen_Walker,30,Gluttony,30,Golden_Chick,30,Haunted_Glory,30,Haunted_TinySword,30,Haunting_Head,30,Haunting_Head_Tiny,30,Herobrine,30,Kindled_Berserker,30,Kindled_GreatSoul,30,Kindled_Spirit,30,Kindled_Summoner,30,KoppenSneller,30,Legged_Creep,30,Legged_Guardian,30,Lone_Golem,30,Many_Eyes,30,Nemesis,30,Posessed_Pickaxe,30,Pyromancer,30,RedCloak,30,RedGuard,30,RedShield,30,Shadow_Rider,30,Shadow_Stalker,30,Spooky_behemoth,30,Spooky_plainschief,30,Stalking_End,30,The_Digger,30,Twilight_Warrior,30,Warlock,30,White_Howl,30,White_Night,30,Wisperer,30)
+Tree(100,Exotic_CaveAirCube_Oak,100)
+UnderWaterOre(minecraft:sand,7,3,100.0,otg:dirt,minecraft:grass_block)
+UnderWaterOre(minecraft:gravel,6,1,100.0,otg:dirt,minecraft:grass_block)
+UnderWaterOre(minecraft:clay,4,1,100.0,otg:dirt,minecraft:clay)
+Ore(minecraft:andesite,16,8,100.0,3,60,minecraft:stone)
+Ore(minecraft:diorite,16,8,100.0,3,60,minecraft:stone)
+Ore(minecraft:granite,16,8,100.0,3,60,minecraft:stone)
+Ore(minecraft:redstone_ore,8,8,100.0,3,32,minecraft:stone)
+Ore(minecraft:lapis_ore,4,1,100.0,3,16,minecraft:stone)
+Ore(minecraft:iron_ore,9,20,100.0,3,60,minecraft:stone)
+Ore(minecraft:gravel,33,8,100.0,50,60,minecraft:stone)
+Ore(minecraft:gold_ore,8,2,90.0,3,32,minecraft:stone)
+Ore(minecraft:emerald_ore,8,1,100.0,0,10,otg:stone)
+Ore(minecraft:dirt,33,10,100.0,50,60,minecraft:stone)
+Ore(minecraft:diamond_ore,4,4,100.0,3,8,minecraft:stone)
+Ore(minecraft:coal_ore,17,20,100.0,3,60,minecraft:stone)
+Ore(minecraft:diamond_ore,4,4,100.0,3,5,otg:stone)
+Ore(minecraft:gold_ore,8,2,90.0,3,5,otg:stone)
+Ore(minecraft:emerald_ore,8,1,100.0,0,5,otg:stone)
+CustomStructure()
+CustomObject(tropicalboulder_leaves_01,tropicalboulder_leaves_02,tropicalboulder_leaves_03,tropicalboulder_leaves_04)
+CustomObject(tropicalboulder_large_01,tropicalboulder_med_01,tropicalboulder_small_01,tropicalboulder_skulls_01)
+CustomObject(dungeon)
+Tree(5,tropicaltree_tiny_25,15,tropicaltree_tiny_24,15,tropicaltree_tiny_23,15,tropicaltree_tiny_22,15,tropicaltree_tiny_21,15,tropicaltree_tiny_20,15,tropicaltree_tiny_19,15,tropicaltree_tiny_18,15,tropicaltree_tiny_17,15,tropicaltree_tiny_16,15,tropicaltree_tiny_15,15,tropicaltree_tiny_14,15,tropicaltree_tiny_13,15,tropicaltree_tiny_12,15,tropicaltree_tiny_11,15,tropicaltree_tiny_10,15,tropicaltree_tiny_09,15,tropicaltree_tiny_08,15,tropicaltree_tiny_07,15,tropicaltree_tiny_06,15,tropicaltree_tiny_05,15,tropicaltree_tiny_04,15,tropicaltree_tiny_03,15,tropicaltree_tiny_02,15,tropicaltree_tiny_01,15,tropicalroots_small_03,15,tropicalroots_small_02,15,tropicalroots_small_01,15)
+Tree(20,tropicalleaves_tiny_01,50,tropicalbush_small_01,50,tropicalbush_med_01,50,tropicalbush_large_01,50)
+Tree(10,COR-JungleMed-01,10,COR-JungleMed-02,10,COR-JungleMed-03,10,COR-JungleTree-med-01,10,COR-JungleTree-med-02,10,COR-JungleTree-med-03,10,COR-JungleTree-med-04,10,COR-JungleTree-med-05,10,COR-JungleTree-tiny-01,5,COR-JungleTree-tiny-02,5,COR-JungleTree-tiny-03,5,COR-JungleTree-tiny-04,5,COR-JungleTree-tiny-05,5,COR-JungleTree-tiny-06,5,COR-JungleTree-tiny-07,5,COR-JungleTree-tiny-08,5,COR-JungleTree-tiny-09,5,COR-JungleTree-tiny-10,5,COR-JungleTree-tiny-11,5,COR-JungleTree-tiny-12,5,COR-JungleTree-tiny-13,5,COR-JungleTree-tiny-14,5,COR-JungleTree-tiny-15,5,COR-JungleTree-tiny-16,5,COR-JungleTree-tiny-17,5,COR-JungleTree-tiny-18,5,COR-JungleTree-tiny-19,5,COR-JungleTree-tiny-20,5,COR-JungleTree-tiny-21,5,COR-JungleTree-tiny-22,5,COR-JungleTree-tiny-23,5,COR-JungleTree-tiny-24,5,COR-JungleTree-tiny-25,5)
+Grass(Tallgrass,NotGrouped,10,100.0,otg:dirt,minecraft:grass_block)
+Grass(minecraft:grass,NotGrouped,10,100.0,otg:dirt,minecraft:grass_block)
+Plant(minecraft:poppy,2,100.0,0,128,otg:dirt,minecraft:grass_block,minecraft:farmland)
+Plant(Dandelion,2,100.0,0,128,otg:dirt,minecraft:grass_block)
+Reed(minecraft:sugar_cane,100,100.0,70,90,minecraft:sand,otg:dirt,minecraft:grass_block)
+Tree(20,tropicalbush_reed_01,50)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Saplings                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Sapling(Oak,Tree,20.0,TreeSwamp03,5.0,TreeSwamp04,5.0,TreeSwamp06,5.0,TreeSwamp07,5.0,TreeSwamp08,5.0,TreeSwamp10,5.0,80,5.0,81,5.0,82,5.0,83,5.0,84,5.0,85,5.0,BigTree,100.0)
+Sapling(Redwood,Taiga1,20.0,pine04,5.0,pine05,5.0,pine06,5.0,pine07,5.0,pine08,5.0,pine09,5.0,pine10,5.0,ME1,5.0,ME2,5.0,ME3,5.0,ME4,5.0,52,5.0,53,5.0,Taiga2,100.0)
+Sapling(Birch,TallBirch,20.0,SA2S,5.0,SA19S,5.0,SA11S,5.0,SA11L,5.0,NA7L,5.0,NA11S,5.0,EUR3S,5.0,Birch,100.0)
+Sapling(SmallJungle,GroundBush,20.0,CocoaTree,20.0,tropicaltree_tiny_01,5.0,tropicaltree_tiny_02,5.0,tropicaltree_tiny_03,5.0,tropicaltree_tiny_04,5.0,tropicaltree_tiny_05,5.0,tropicaltree_tiny_06,5.0,tropicaltree_tiny_07,5.0,tropicaltree_tiny_08,5.0,tropicaltree_tiny_09,5.0,tropicaltree_tiny_10,5.0,CocoaTree,100.0)
+Sapling(BigJungle,JungleTree,50.0,RFGodTree01,1.0,RFGodTree02,1.0,RFMedTree01,2.0,RFMedTree02,2.0,RFMedTree03,2.0,RFTree01,4.0,RFTree05,4.0,RFTree10,4.0,RFTree15,4.0,RFTree20,4.0,RFTree25,4.0,RFTree30,4.0,RFTree35,4.0,JungleTree,100.0)
+Sapling(RedMushroom,MushroomRedWideTall,10.0,MushroomRedWide,10.0,MushroomRedSmall,10.0,MushroomRedMedium,10.0,MushroomRedDiagonal,10.0,HugeRedMushroom,100.0)
+Sapling(BrownMushroom,MushroomRedBrownSplit,10.0,MushroomBrownRedSingle,10.0,HugeMushroom,20.0,HugeBrownMushroom,100.0)
+Sapling(Acacia,Acacia,50.0,AFR3L,5.0,AFR3S,5.0,AFR5S,5.0,AFR6L,5.0,AFR8L,5.0,AFR8S,5.0,AFR9L,5.0,AFR9S,5.0,AFR10L,5.0,AFR10S,5.0,AFR11S,5.0,AFR11L,5.0,AFR12L,5.0,Acacia,100.0)
+Sapling(DarkOak,DarkOak,50.0,Dense01,5.0,Dense02,5.0,Dense03,5.0,Dense04,5.0,Dense05,5.0,Dense06,5.0,Dense07,5.0,Dense08,5.0,Dense09,5.0,Dense10,5.0,DarkOak,100.0)
+Sapling(HugeRedwood,HugeTaiga1,20.0,SpookyTree1,5.0,SpookyTree3,5.0,SpookyTree4,5.0,ME5,5.0,51,5.0,HugeTaiga2,100.0)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                        Vanilla structures                       | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+StrongholdsEnabled: true
+
+WoodlandMansionsEnabled: false
+
+OceanMonumentsEnabled: false
+
+NetherFortressesEnabled: true
+
+VillageType: disabled
+
+VillageSize: 6
+
+MineshaftType: disabled
+
+MineshaftProbability: 0.004
+
+RareBuildingType: disabled
+
+BuriedTreasureEnabled: false
+
+BuriedTreasureProbability: 0.01
+
+ShipWreckEnabled: false
+
+ShipWreckBeachedEnabled: false
+
+PillagerOutpostEnabled: false
+
+PillagerOutpostSize: 7
+
+BastionRemnantEnabled: false
+
+BastionRemnantSize: 6
+
+NetherFossilEnabled: false
+
+EndCityEnabled: false
+
+RuinedPortalType: mountain
+
+OceanRuinsType: disabled
+
+OceanRuinsLargeProbability: 0.3
+
+OceanRuinsClusterProbability: 0.9
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                           Mob spawning                          | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+SpawnMonsters: []
+
+SpawnCreatures: []
+
+SpawnWaterCreatures: []
+
+SpawnAmbientCreatures: []
+
+SpawnWaterAmbientCreatures: []
+
+SpawnMiscCreatures: []
+
+InheritMobsBiomeName: minecraft:jungle_hills
+

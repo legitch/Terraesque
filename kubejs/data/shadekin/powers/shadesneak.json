@@ -1,0 +1,66 @@
+{
+	"type": "origins:multiple",
+	"fast_sneak": {
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "addition",
+        "value": 0.55,
+        "name": "Increased sneaking speed"
+    },
+    "tick_rate": 1,
+    "condition": {
+        "type": "origins:sneaking"
+    }
+},
+	"invisibility": {
+    "type": "origins:invisibility",
+    "render_armor": false,
+    "condition": {
+        "type": "origins:sneaking"
+    }
+},
+	"scaling": {
+	"type": "origins:climbing",
+	"allow_holding": false,
+	"condition": {
+		"type": "origins:and",
+		"conditions": [
+		{
+			"type": "origins:collided_horizontally"
+		},
+		{
+			"type": "origins:sneaking"
+		}
+		]
+	}
+	},
+	"bound": {
+		"type": "origins:modify_jump",
+		"modifier": {
+			"operation": "addition",
+			"value": -1
+		},
+		"condition": {
+			"type": "origins:sneaking"
+		}
+	},
+	"exhausting": {
+		"type": "origins:exhaust",
+		"interval": 30,
+		"exhaustion": 2.0,
+		"condition": {
+			"type": "origins:sneaking"
+		}
+	},
+	"particle": {
+	"type": "origins:particle",
+	"particle": "minecraft:landing_obsidian_tear",
+	"frequency": 10,
+	"condition": {
+		"type": "origins:sneaking"
+	}
+	},
+	"name": "Shadow Sneak",
+	"description": "You can blend into the shadows by sneaking. You will become invisible, and much speedier! You may climb up surfaces while shadow sneaking, however you are bound to surfaces and cannot jump. Shadow sneaking also causes you to exhaust faster."
+}

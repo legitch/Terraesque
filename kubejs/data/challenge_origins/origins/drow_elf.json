@@ -1,0 +1,15 @@
+{
+  "name": "Drow Elf",
+  "description": "Once part of a prosperous and elegant species, you were exiled out of the land you called paradise and stripped of most of your magical powers as a newly labelled 'Traitor', now you must fend for yourself whilst enduring weaknesses of which you have no tools to rectify.",
+  "powers": [
+    "challenge_origins:light_weakness",
+    "challenge_origins:block_overhead_start",
+    "origins:strong_arms",
+    "origins:strong_arms_break_speed",
+    "challenge_origins:faster_break_speed",
+    "challenge_origins:constant_night_vision"
+  ],
+  "icon": "botania:horn_snow",
+  "order": 1,
+  "impact": 2
+}

@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"minotaur:agoraphobia",
+		"origins:carnivore",
+		"minotaur:agoraphobia2",
+		"minotaur:hungry",
+		"minotaur:armor",
+		"minotaur:no_swim",
+		"minotaur:milk_give",
+		"minotaur:milk_tag",
+		"minotaur:ram",
+		"minotaur:axe_proficiency",
+		"minotaur:big",
+		"minotaur:health",
+		"minotaur:fire"
+	],
+	"icon": "twilightforest:minotaur_axe",
+	"order": 1,
+	"impact": 3,
+	"name": "Minotaur",
+	"description": "Creature left to the labyrinth ; it has decided to embark in a journey of it's own."
+}

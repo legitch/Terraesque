@@ -1,0 +1,4 @@
+recipe take @s crafting:elytra1
+advancement revoke @s only crafting:elytra1_adv
+clear @s minecraft:knowledge_book
+give @p elytra{display:{Name:'{"text":"Netherite Elytra","color":"aqua","italic":false}'},AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:4,Operation:0,UUID:[I;586029892,1735607037,-2146120485,1421498943],Slot:"chest"},{AttributeName:"generic.armor_toughness",Name:"generic.armor_toughness",Amount:2,Operation:0,UUID:[I;-205525003,-121618387,-1327755397,1200729819],Slot:"chest"},{AttributeName:"generic.knockback_resistance",Name:"generic.knockback_resistance",Amount:0.1,Operation:0,UUID:[I;559510258,1165184849,-1182545197,-908412256],Slot:"chest"}]} 1

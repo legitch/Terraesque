@@ -1,0 +1,20 @@
+{
+  "config": {
+    "top_material": {
+      "Properties": {
+        "snowy": "false"
+      },
+      "Name": "minecraft:grass_block"
+    },
+    "under_material": {
+        "Properties": {
+          "facing": "north"
+    },
+      "Name": "minecraft:white_glazed_terracotta"
+    },
+    "underwater_material": {
+      "Name": "minecraft:potzol"
+    }
+  },
+  "type": "minecraft:nether_forest"
+}

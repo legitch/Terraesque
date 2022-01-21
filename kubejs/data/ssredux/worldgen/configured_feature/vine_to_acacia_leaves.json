@@ -1,0 +1,61 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_extra",
+      "config": {
+        "count": 500,
+        "extra_count": 0,
+        "extra_chance": 0
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:square",
+          "config": {}
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:range",
+              "config": {
+                "maximum": 255,
+                "bottom_offset": 0,
+                "top_offset": 0
+              }
+            },
+            "feature": {
+              "type": "minecraft:netherrack_replace_blobs",
+              "config": {
+                "state": {
+                  "Name": "minecraft:acacia_leaves",
+                  "Properties": {
+                    "distance": "7",
+                    "persistent": "true"
+                  }
+                },
+                "target": {
+                  "Name": "minecraft:vine",
+                  "Properties": {
+                    "up": "true",
+                    "south": "true",
+                    "north": "true",
+                    "east": "true",
+                    "west": "true"
+                  }
+                },
+                "radius": {
+                  "base": 9,
+                  "spread": 9
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"type": "origins:modify_damage_taken",
+	"damage_condition": {
+		"type": "origins:fire"
+	},
+	"modifier": {
+		"name": "Weak to fire damage",
+		"operation": "addition",
+		"value": 3
+	},
+	"name": "Light Weakness",
+	"description": "Fire is too bright for you, so you take extra fire damage"
+}

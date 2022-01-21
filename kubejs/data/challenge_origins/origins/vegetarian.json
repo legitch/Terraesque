@@ -1,0 +1,10 @@
+{
+  "name": "Vegetarian",
+  "description": "The classic Minecraft experience but with a minor twist.",
+  "powers": [
+    "origins:vegetarian"
+  ],
+  "icon": "potato",
+  "order": 1,
+  "impact": 1
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Merfolk",
+  "description": "Half-Human Half-Merling hybrids, runts of the evolutionary family tree, now left behind to fend for themselves with weaker bodies compared to their Merling half.",
+  "powers": [
+    "origins:water_breathing",
+    "origins:water_vision",
+    "origins:aqua_affinity",
+    "origins:swim_speed",
+    "challenge_origins:no_helmet"
+  ],
+  "icon": "cod",
+  "order": 1,
+  "impact": 1
+}

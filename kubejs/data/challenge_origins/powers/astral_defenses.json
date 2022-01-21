@@ -1,0 +1,47 @@
+{
+  "name": "Astral Defenses",
+  "description": "Unaffected by thorns, magma blocks, berry-bushes, suffocation, and fall damage.",
+  "type": "origins:multiple",
+  "invulnerability": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "sweetBerryBush"
+    }
+  },
+  "invulnerability2": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "hotFloor"
+    }
+  },
+  "invulnerability3": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "inWall"
+    }
+  },
+  "invulnerability4": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "fall"
+    }
+  },
+  "invulnerability5": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "thorns"
+    }
+  },
+  "invulnerability6": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:name",
+      "name": "cramming"
+    }
+  }
+}

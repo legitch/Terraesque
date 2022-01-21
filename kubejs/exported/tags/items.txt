@@ -1,0 +1,3377 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 26, 2021 7:06:22 PM
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#forge:nuggets
+- #forge:nuggets/elementium
+- #forge:nuggets/manasteel
+- #forge:nuggets/terrasteel
+- create:copper_nugget
+- create:zinc_nugget
+- create:brass_nugget
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+- betterendforge:thallasium_nugget
+- betterendforge:terminite_nugget
+
+#forge:plates
+- create:copper_sheet
+- create:brass_sheet
+- create:iron_sheet
+- create:golden_sheet
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#fabric:pickaxes
+- betternether:cincinnasite_pickaxe
+- betternether:cincinnasite_pickaxe_diamond
+- betternether:nether_ruby_pickaxe
+
+#forge:gems/dragonstone
+- botania:dragonstone
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#botania:runes/sloth
+- botania:rune_sloth
+
+#create:upright_on_belt
+- create:blaze_cake_base
+- create:blaze_cake
+- create:creative_blaze_cake
+- create:builders_tea
+- minecraft:glass_bottle
+- minecraft:potion
+- minecraft:splash_potion
+- minecraft:lingering_potion
+- minecraft:honey_bottle
+- minecraft:cake
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#forge:beacon_payment
+- #create:create_ingots
+
+#botania:floating_flowers
+- #botania:mundane_floating_flowers
+- #botania:special_floating_flowers
+
+#alexsmobs:insect_items
+- alexsmobs:maggot
+- alexsmobs:mosquito_larva
+- alexsmobs:leafcutter_ant_pupa
+
+#fabric:axes
+- betternether:cincinnasite_axe
+- betternether:cincinnasite_axe_diamond
+- betternether:nether_ruby_axe
+
+#botania:loonium_blacklist
+- botania:lexicon
+- botania:overgrowth_seed
+- botania:black_lotus
+- botania:blacker_lotus
+- #minecraft:music_discs
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+- betterendforge:mossy_glowshroom_chest
+- betterendforge:lacugrove_chest
+- betterendforge:end_lotus_chest
+- betterendforge:pythadendron_chest
+- betterendforge:dragon_tree_chest
+- betterendforge:tenanea_chest
+- betterendforge:helix_tree_chest
+- betterendforge:umbrella_tree_chest
+- betterendforge:jellyshroom_chest
+- betterendforge:lucernia_chest
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+
+#origins:ignore_diet
+
+#botania:runes/summer
+- botania:rune_summer
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#betterendforge:end_lotus_logs
+- betterendforge:end_lotus_log
+- betterendforge:end_lotus_bark
+- betterendforge:end_lotus_stripped_log
+- betterendforge:end_lotus_stripped_bark
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+- twilightforest:twilight_oak_gate
+- twilightforest:canopy_gate
+- twilightforest:mangrove_gate
+- twilightforest:dark_gate
+- twilightforest:time_gate
+- twilightforest:trans_gate
+- twilightforest:mine_gate
+- twilightforest:sort_gate
+- betterendforge:mossy_glowshroom_gate
+- betterendforge:lacugrove_gate
+- betterendforge:end_lotus_gate
+- betterendforge:pythadendron_gate
+- betterendforge:dragon_tree_gate
+- betterendforge:tenanea_gate
+- betterendforge:helix_tree_gate
+- betterendforge:umbrella_tree_gate
+- betterendforge:jellyshroom_gate
+- betterendforge:lucernia_gate
+
+#forge:storage_blocks/carminite
+- twilightforest:carminite_block
+
+#forge:ingots
+- #forge:ingots/elementium
+- #forge:ingots/manasteel
+- #forge:ingots/terrasteel
+- #create:create_ingots
+- #forge:ingots/iron
+- #forge:ingots/gold
+- #forge:ingots/brick
+- #forge:ingots/nether_brick
+- #forge:ingots/netherite
+- #forge:ingots/ironwood
+- #forge:ingots/fiery
+- #forge:ingots/knightmetal
+- #forge:ingots/steeleaf
+- betterendforge:aeternium_ingot
+- betterendforge:thallasium_ingot
+- betterendforge:terminite_ingot
+
+#forge:nuggets/terrasteel
+- botania:terrasteel_nugget
+
+#forge:storage_blocks/arctic_fur
+- twilightforest:arctic_fur_block
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#forge:storage_blocks/copper
+- create:copper_block
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+
+#forge:raw_fishes
+- betterendforge:end_fish_raw
+
+#alexsmobs:crow_foodstuffs
+- minecraft:egg
+- minecraft:turtle_egg
+- minecraft:sugar
+- #forge:seeds
+
+#forge:ice
+- betterendforge:ancient_emerald_ice
+- betterendforge:dense_emerald_ice
+- betterendforge:emerald_ice
+
+#twilightforest:canopy_logs
+- twilightforest:canopy_log
+- twilightforest:stripped_canopy_log
+- twilightforest:canopy_wood
+- twilightforest:stripped_canopy_wood
+
+#forge:storage_blocks/steeleaf
+- twilightforest:steeleaf_block
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#forge:gems/carminite
+- twilightforest:carminite
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#minecraft:doors
+- betterendforge:mossy_glowshroom_door
+- betterendforge:lacugrove_door
+- betterendforge:end_lotus_door
+- betterendforge:pythadendron_door
+- betterendforge:dragon_tree_door
+- betterendforge:tenanea_door
+- betterendforge:helix_tree_door
+- betterendforge:umbrella_tree_door
+- betterendforge:jellyshroom_door
+- betterendforge:lucernia_door
+- betterendforge:thallasium_door
+- betterendforge:terminite_door
+- #minecraft:wooden_doors
+- minecraft:iron_door
+
+#botania:petals/red
+- botania:red_petal
+- botania:red_mushroom
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#alexsmobs:seal_foodstuffs
+- #minecraft:fishes
+- alexsmobs:lobster_tail
+- alexsmobs:cooked_lobster_tail
+
+#botania:runes/gluttony
+- botania:rune_gluttony
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#minecraft:signs
+- twilightforest:twilight_oak_sign
+- twilightforest:canopy_sign
+- twilightforest:mangrove_sign
+- twilightforest:darkwood_sign
+- twilightforest:time_sign
+- twilightforest:trans_sign
+- twilightforest:mine_sign
+- twilightforest:sort_sign
+- betterendforge:mossy_glowshroom_sign
+- betterendforge:lacugrove_sign
+- betterendforge:end_lotus_sign
+- betterendforge:pythadendron_sign
+- betterendforge:dragon_tree_sign
+- betterendforge:tenanea_sign
+- betterendforge:helix_tree_sign
+- betterendforge:umbrella_tree_sign
+- betterendforge:jellyshroom_sign
+- betterendforge:lucernia_sign
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#forge:nuggets/thallasium
+- betterendforge:thallasium_nugget
+
+#botania:mundane_floating_flowers
+- botania:black_floating_flower
+- botania:blue_floating_flower
+- botania:brown_floating_flower
+- botania:cyan_floating_flower
+- botania:gray_floating_flower
+- botania:green_floating_flower
+- botania:light_blue_floating_flower
+- botania:light_gray_floating_flower
+- botania:lime_floating_flower
+- botania:magenta_floating_flower
+- botania:orange_floating_flower
+- botania:pink_floating_flower
+- botania:purple_floating_flower
+- botania:red_floating_flower
+- botania:white_floating_flower
+- botania:yellow_floating_flower
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#botania:petals/yellow
+- botania:yellow_petal
+- botania:yellow_mushroom
+
+#twilightforest:towerwood
+- twilightforest:tower_wood
+- twilightforest:tower_wood_mossy
+- twilightforest:tower_wood_cracked
+- twilightforest:tower_wood_infested
+
+#origins:shields
+- minecraft:shield
+
+#forge:fruits
+- betterendforge:blossom_berry
+- betterendforge:shadow_berry_raw
+
+#botania:petals/light_gray
+- botania:light_gray_petal
+- botania:light_gray_mushroom
+
+#curios:hands
+- bountifulbaubles:gloves_dexterity
+- bountifulbaubles:gloves_digging_diamond
+- bountifulbaubles:gloves_digging_iron
+- curios:knuckles
+- artifacts:digging_claws
+- artifacts:feral_claws
+- artifacts:fire_gauntlet
+- artifacts:pocket_piston
+- artifacts:power_glove
+- artifacts:vampiric_glove
+- artifacts:golden_hook
+
+#botania:mini_flowers
+- botania:agricarnation_chibi
+- botania:bellethorn_chibi
+- botania:bubbell_chibi
+- botania:clayconia_chibi
+- botania:hopperhock_chibi
+- botania:jiyuulia_chibi
+- botania:marimorphosis_chibi
+- botania:rannuncarpus_chibi
+- botania:solegnolia_chibi
+- botania:tangleberrie_chibi
+
+#forge:sand/colorless
+- minecraft:sand
+
+#forge:nuggets/brass
+- create:brass_nugget
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#minecraft:walls
+- botania:corporea_brick_wall
+- botania:dreamwood_wall
+- botania:livingrock_bricks_wall
+- botania:livingrock_wall
+- botania:livingwood_wall
+- botania:metamorphic_desert_bricks_wall
+- botania:metamorphic_desert_cobblestone_wall
+- botania:metamorphic_forest_bricks_wall
+- botania:metamorphic_forest_cobblestone_wall
+- botania:metamorphic_fungal_bricks_wall
+- botania:metamorphic_fungal_cobblestone_wall
+- botania:metamorphic_mesa_bricks_wall
+- botania:metamorphic_mesa_cobblestone_wall
+- botania:metamorphic_mountain_bricks_wall
+- botania:metamorphic_mountain_cobblestone_wall
+- botania:metamorphic_plains_bricks_wall
+- botania:metamorphic_plains_cobblestone_wall
+- botania:metamorphic_swamp_bricks_wall
+- botania:metamorphic_swamp_cobblestone_wall
+- botania:metamorphic_taiga_bricks_wall
+- botania:metamorphic_taiga_cobblestone_wall
+- botania:mossy_livingrock_bricks_wall
+- create:granite_cobblestone_wall
+- create:granite_bricks_wall
+- create:fancy_granite_bricks_wall
+- create:paved_granite_wall
+- create:diorite_cobblestone_wall
+- create:diorite_bricks_wall
+- create:fancy_diorite_bricks_wall
+- create:paved_diorite_wall
+- create:andesite_cobblestone_wall
+- create:andesite_bricks_wall
+- create:fancy_andesite_bricks_wall
+- create:paved_andesite_wall
+- create:limestone_cobblestone_wall
+- create:polished_limestone_wall
+- create:limestone_bricks_wall
+- create:fancy_limestone_bricks_wall
+- create:paved_limestone_wall
+- create:weathered_limestone_cobblestone_wall
+- create:polished_weathered_limestone_wall
+- create:weathered_limestone_bricks_wall
+- create:fancy_weathered_limestone_bricks_wall
+- create:paved_weathered_limestone_wall
+- create:dolomite_cobblestone_wall
+- create:polished_dolomite_wall
+- create:dolomite_bricks_wall
+- create:fancy_dolomite_bricks_wall
+- create:paved_dolomite_wall
+- create:gabbro_cobblestone_wall
+- create:polished_gabbro_wall
+- create:gabbro_bricks_wall
+- create:fancy_gabbro_bricks_wall
+- create:paved_gabbro_wall
+- create:scoria_cobblestone_wall
+- create:polished_scoria_wall
+- create:scoria_bricks_wall
+- create:fancy_scoria_bricks_wall
+- create:paved_scoria_wall
+- create:dark_scoria_cobblestone_wall
+- create:polished_dark_scoria_wall
+- create:dark_scoria_bricks_wall
+- create:fancy_dark_scoria_bricks_wall
+- create:paved_dark_scoria_wall
+- betterendforge:flavolite_wall
+- betterendforge:flavolite_bricks_wall
+- betterendforge:violecite_wall
+- betterendforge:violecite_bricks_wall
+- betterendforge:sulphuric_rock_wall
+- betterendforge:sulphuric_rock_bricks_wall
+- betterendforge:virid_jadestone_wall
+- betterendforge:virid_jadestone_bricks_wall
+- betterendforge:azure_jadestone_wall
+- betterendforge:azure_jadestone_bricks_wall
+- betterendforge:sandy_jadestone_wall
+- betterendforge:sandy_jadestone_bricks_wall
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+
+#botania:petals/pink
+- botania:pink_petal
+- botania:pink_mushroom
+
+#forge:dusts/mana
+- botania:mana_powder
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#minecraft:music_discs
+- botania:record_gaia_1
+- botania:record_gaia_2
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+
+#forge:ingots/knightmetal
+- twilightforest:knightmetal_ingot
+
+#forge:gems
+- #forge:gems/dragonstone
+- #forge:gems/mana_diamond
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+- #forge:gems/carminite
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:end_stones
+- minecraft:end_stone
+- betterendforge:crystal_moss
+- betterendforge:end_mycelium
+- betterendforge:end_moss
+- betterendforge:chorus_nylium
+- betterendforge:cave_moss
+- betterendforge:shadow_grass
+- betterendforge:pink_moss
+- betterendforge:amber_moss
+- betterendforge:jungle_moss
+- betterendforge:sangnum
+- betterendforge:rutiscus
+- betterendforge:pallidium_full
+- betterendforge:pallidium_heavy
+- betterendforge:pallidium_thin
+- betterendforge:pallidium_tiny
+
+#forge:storage_blocks/terrasteel
+- botania:terrasteel_block
+
+#fabric:hoes
+- betternether:cincinnasite_hoe
+- betternether:cincinnasite_hoe_diamond
+- betternether:nether_ruby_hoe
+
+#forge:fences/wooden
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- twilightforest:twilight_oak_fence
+- twilightforest:canopy_fence
+- twilightforest:mangrove_fence
+- twilightforest:dark_fence
+- twilightforest:time_fence
+- twilightforest:trans_fence
+- twilightforest:mine_fence
+- twilightforest:sort_fence
+- betterendforge:mossy_glowshroom_fence
+- betterendforge:lacugrove_fence
+- betterendforge:end_lotus_fence
+- betterendforge:pythadendron_fence
+- betterendforge:dragon_tree_fence
+- betterendforge:tenanea_fence
+- betterendforge:helix_tree_fence
+- betterendforge:umbrella_tree_fence
+- betterendforge:jellyshroom_fence
+- betterendforge:lucernia_fence
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#forge:storage_blocks
+- #forge:storage_blocks/elementium
+- #forge:storage_blocks/manasteel
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/terrasteel
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- #forge:storage_blocks/fiery
+- #forge:storage_blocks/arctic_fur
+- #forge:storage_blocks/carminite
+- #forge:storage_blocks/ironwood
+- #forge:storage_blocks/knightmetal
+- #forge:storage_blocks/steeleaf
+- betterendforge:aeternium_block
+- betterendforge:amber_block
+- betterendforge:thallasium_block
+- betterendforge:terminite_block
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#forge:ingots/terminite
+- betterendforge:terminite_ingot
+
+#minecraft:beacon_payment_items
+- betterendforge:aeternium_ingot
+- betterendforge:thallasium_ingot
+- betterendforge:terminite_ingot
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+
+#forge:ingots/copper
+- create:copper_ingot
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#forge:ingots/brick
+- minecraft:brick
+
+#alexsmobs:animal_dictionary_ingredient
+- alexsmobs:crocodile_scute
+- alexsmobs:bear_fur
+- alexsmobs:roadrunner_feather
+- alexsmobs:gazelle_horn
+- alexsmobs:rattlesnake_rattle
+- alexsmobs:komodo_spit
+- alexsmobs:centipede_leg
+- alexsmobs:moose_antler
+- alexsmobs:raccoon_tail
+- alexsmobs:cockroach_wing
+- alexsmobs:spiked_scute
+- alexsmobs:straddlite
+- alexsmobs:emu_feather
+- alexsmobs:dropbear_claw
+- alexsmobs:cachalot_whale_tooth
+- alexsmobs:capsid
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#forge:saplings
+- betterendforge:dragon_tree_sapling
+- betterendforge:helix_tree_sapling
+- betterendforge:hydralux_sapling
+- betterendforge:lacugrove_sapling
+- betterendforge:lucernia_sapling
+- betterendforge:mossy_glowshroom_sapling
+- betterendforge:pythadendron_sapling
+- betterendforge:tenanea_sapling
+- betterendforge:umbrella_tree_sapling
+
+#minecraft:wooden_trapdoors
+- twilightforest:twilight_oak_trapdoor
+- twilightforest:canopy_trapdoor
+- twilightforest:mangrove_trapdoor
+- twilightforest:dark_trapdoor
+- twilightforest:time_trapdoor
+- twilightforest:trans_trapdoor
+- twilightforest:mine_trapdoor
+- twilightforest:sort_trapdoor
+- betterendforge:mossy_glowshroom_trapdoor
+- betterendforge:lacugrove_trapdoor
+- betterendforge:end_lotus_trapdoor
+- betterendforge:pythadendron_trapdoor
+- betterendforge:dragon_tree_trapdoor
+- betterendforge:tenanea_trapdoor
+- betterendforge:helix_tree_trapdoor
+- betterendforge:umbrella_tree_trapdoor
+- betterendforge:jellyshroom_trapdoor
+- betterendforge:lucernia_trapdoor
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#forge:nuggets/elementium
+- botania:elementium_nugget
+
+#forge:ores/thallasium
+- betterendforge:thallasium_ore
+
+#forge:ingots/brass
+- create:brass_ingot
+
+#botania:special_floating_flowers
+- botania:floating_agricarnation
+- botania:floating_agricarnation_chibi
+- botania:floating_bellethorn
+- botania:floating_bellethorn_chibi
+- botania:floating_bergamute
+- botania:floating_bubbell
+- botania:floating_bubbell_chibi
+- botania:floating_clayconia
+- botania:floating_clayconia_chibi
+- botania:floating_daffomill
+- botania:floating_dandelifeon
+- botania:floating_dreadthorn
+- botania:floating_endoflame
+- botania:floating_entropinnyum
+- botania:floating_exoflame
+- botania:floating_fallen_kanade
+- botania:floating_gourmaryllis
+- botania:floating_heisei_dream
+- botania:floating_hopperhock
+- botania:floating_hopperhock_chibi
+- botania:floating_hyacidus
+- botania:floating_hydroangeas
+- botania:floating_jaded_amaranthus
+- botania:floating_jiyuulia
+- botania:floating_jiyuulia_chibi
+- botania:floating_kekimurus
+- botania:floating_labellia
+- botania:floating_loonium
+- botania:floating_manastar
+- botania:floating_marimorphosis
+- botania:floating_marimorphosis_chibi
+- botania:floating_medumone
+- botania:floating_munchdew
+- botania:floating_narslimmus
+- botania:floating_orechid
+- botania:floating_orechid_ignem
+- botania:floating_pollidisiac
+- botania:floating_pure_daisy
+- botania:floating_rafflowsia
+- botania:floating_rannuncarpus
+- botania:floating_rannuncarpus_chibi
+- botania:floating_rosa_arcana
+- botania:floating_shulk_me_not
+- botania:floating_solegnolia
+- botania:floating_solegnolia_chibi
+- botania:floating_spectranthemum
+- botania:floating_spectrolus
+- botania:floating_tangleberrie
+- botania:floating_tangleberrie_chibi
+- botania:floating_thermalily
+- botania:floating_tigerseye
+- botania:floating_vinculotus
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#minecraft:stairs
+- botania:black_pavement_stairs
+- botania:blaze_quartz_stairs
+- botania:blue_pavement_stairs
+- botania:corporea_brick_stairs
+- botania:corporea_stairs
+- botania:dark_quartz_stairs
+- botania:dreamwood_planks_stairs
+- botania:dreamwood_stairs
+- botania:elf_quartz_stairs
+- botania:green_pavement_stairs
+- botania:lavender_quartz_stairs
+- botania:livingrock_bricks_stairs
+- botania:livingrock_stairs
+- botania:livingwood_planks_stairs
+- botania:livingwood_stairs
+- botania:mana_quartz_stairs
+- botania:metamorphic_desert_bricks_stairs
+- botania:metamorphic_desert_cobblestone_stairs
+- botania:metamorphic_desert_stone_stairs
+- botania:metamorphic_forest_bricks_stairs
+- botania:metamorphic_forest_cobblestone_stairs
+- botania:metamorphic_forest_stone_stairs
+- botania:metamorphic_fungal_bricks_stairs
+- botania:metamorphic_fungal_cobblestone_stairs
+- botania:metamorphic_fungal_stone_stairs
+- botania:metamorphic_mesa_bricks_stairs
+- botania:metamorphic_mesa_cobblestone_stairs
+- botania:metamorphic_mesa_stone_stairs
+- botania:metamorphic_mountain_bricks_stairs
+- botania:metamorphic_mountain_cobblestone_stairs
+- botania:metamorphic_mountain_stone_stairs
+- botania:metamorphic_plains_bricks_stairs
+- botania:metamorphic_plains_cobblestone_stairs
+- botania:metamorphic_plains_stone_stairs
+- botania:metamorphic_swamp_bricks_stairs
+- botania:metamorphic_swamp_cobblestone_stairs
+- botania:metamorphic_swamp_stone_stairs
+- botania:metamorphic_taiga_bricks_stairs
+- botania:metamorphic_taiga_cobblestone_stairs
+- botania:metamorphic_taiga_stone_stairs
+- botania:mossy_livingrock_bricks_stairs
+- botania:red_pavement_stairs
+- botania:red_quartz_stairs
+- botania:shimmerrock_stairs
+- botania:shimmerwood_planks_stairs
+- botania:sunny_quartz_stairs
+- botania:white_pavement_stairs
+- botania:yellow_pavement_stairs
+- create:granite_cobblestone_stairs
+- create:granite_bricks_stairs
+- create:fancy_granite_bricks_stairs
+- create:paved_granite_stairs
+- create:diorite_cobblestone_stairs
+- create:diorite_bricks_stairs
+- create:fancy_diorite_bricks_stairs
+- create:paved_diorite_stairs
+- create:andesite_cobblestone_stairs
+- create:andesite_bricks_stairs
+- create:fancy_andesite_bricks_stairs
+- create:paved_andesite_stairs
+- create:limestone_cobblestone_stairs
+- create:polished_limestone_stairs
+- create:limestone_bricks_stairs
+- create:fancy_limestone_bricks_stairs
+- create:paved_limestone_stairs
+- create:weathered_limestone_cobblestone_stairs
+- create:polished_weathered_limestone_stairs
+- create:weathered_limestone_bricks_stairs
+- create:fancy_weathered_limestone_bricks_stairs
+- create:paved_weathered_limestone_stairs
+- create:dolomite_cobblestone_stairs
+- create:polished_dolomite_stairs
+- create:dolomite_bricks_stairs
+- create:fancy_dolomite_bricks_stairs
+- create:paved_dolomite_stairs
+- create:gabbro_cobblestone_stairs
+- create:polished_gabbro_stairs
+- create:gabbro_bricks_stairs
+- create:fancy_gabbro_bricks_stairs
+- create:paved_gabbro_stairs
+- create:scoria_cobblestone_stairs
+- create:polished_scoria_stairs
+- create:scoria_bricks_stairs
+- create:fancy_scoria_bricks_stairs
+- create:paved_scoria_stairs
+- create:dark_scoria_cobblestone_stairs
+- create:polished_dark_scoria_stairs
+- create:dark_scoria_bricks_stairs
+- create:fancy_dark_scoria_bricks_stairs
+- create:paved_dark_scoria_stairs
+- twilightforest:castle_stairs_brick
+- twilightforest:castle_stairs_worn
+- twilightforest:castle_stairs_cracked
+- twilightforest:castle_stairs_mossy
+- twilightforest:castle_stairs_encased
+- twilightforest:castle_stairs_bold
+- twilightforest:nagastone_stairs_left
+- twilightforest:nagastone_stairs_right
+- twilightforest:nagastone_stairs_mossy_left
+- twilightforest:nagastone_stairs_mossy_right
+- twilightforest:nagastone_stairs_weathered_left
+- twilightforest:nagastone_stairs_weathered_right
+- betterendforge:dragon_bone_stairs
+- betterendforge:neon_cactus_stairs
+- betterendforge:mossy_glowshroom_stairs
+- betterendforge:lacugrove_stairs
+- betterendforge:end_lotus_stairs
+- betterendforge:pythadendron_stairs
+- betterendforge:dragon_tree_stairs
+- betterendforge:tenanea_stairs
+- betterendforge:helix_tree_stairs
+- betterendforge:umbrella_tree_stairs
+- betterendforge:jellyshroom_stairs
+- betterendforge:lucernia_stairs
+- betterendforge:flavolite_stairs
+- betterendforge:flavolite_bricks_stairs
+- betterendforge:violecite_stairs
+- betterendforge:violecite_bricks_stairs
+- betterendforge:sulphuric_rock_stairs
+- betterendforge:sulphuric_rock_bricks_stairs
+- betterendforge:virid_jadestone_stairs
+- betterendforge:virid_jadestone_bricks_stairs
+- betterendforge:azure_jadestone_stairs
+- betterendforge:azure_jadestone_bricks_stairs
+- betterendforge:sandy_jadestone_stairs
+- betterendforge:sandy_jadestone_bricks_stairs
+- betterendforge:thallasium_stairs
+- betterendforge:terminite_stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+
+#minecraft:logs
+- #twilightforest:logs
+- betterendforge:mossy_glowshroom_log
+- betterendforge:mossy_glowshroom_bark
+- betterendforge:mossy_glowshroom_stripped_log
+- betterendforge:mossy_glowshroom_stripped_bark
+- betterendforge:lacugrove_log
+- betterendforge:lacugrove_bark
+- betterendforge:lacugrove_stripped_log
+- betterendforge:lacugrove_stripped_bark
+- betterendforge:end_lotus_log
+- betterendforge:end_lotus_bark
+- betterendforge:end_lotus_stripped_log
+- betterendforge:end_lotus_stripped_bark
+- betterendforge:pythadendron_log
+- betterendforge:pythadendron_bark
+- betterendforge:pythadendron_stripped_log
+- betterendforge:pythadendron_stripped_bark
+- betterendforge:dragon_tree_log
+- betterendforge:dragon_tree_bark
+- betterendforge:dragon_tree_stripped_log
+- betterendforge:dragon_tree_stripped_bark
+- betterendforge:tenanea_log
+- betterendforge:tenanea_bark
+- betterendforge:tenanea_stripped_log
+- betterendforge:tenanea_stripped_bark
+- betterendforge:helix_tree_log
+- betterendforge:helix_tree_bark
+- betterendforge:helix_tree_stripped_log
+- betterendforge:helix_tree_stripped_bark
+- betterendforge:umbrella_tree_log
+- betterendforge:umbrella_tree_bark
+- betterendforge:umbrella_tree_stripped_log
+- betterendforge:umbrella_tree_stripped_bark
+- betterendforge:jellyshroom_log
+- betterendforge:jellyshroom_bark
+- betterendforge:jellyshroom_stripped_log
+- betterendforge:jellyshroom_stripped_bark
+- betterendforge:lucernia_log
+- betterendforge:lucernia_bark
+- betterendforge:lucernia_stripped_log
+- betterendforge:lucernia_stripped_bark
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+
+#alexsmobs:grizzly_foodstuffs
+- #alexsmobs:grizzly_honey
+- minecraft:salmon
+- minecraft:bee_nest
+- minecraft:beetroot
+
+#minecraft:arrows
+- alexsmobs:shark_tooth_arrow
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+
+#botania:petals/black
+- botania:black_petal
+- botania:black_mushroom
+
+#minecraft:wooden_doors
+- twilightforest:twilight_oak_door
+- twilightforest:canopy_door
+- twilightforest:mangrove_door
+- twilightforest:dark_door
+- twilightforest:time_door
+- twilightforest:trans_door
+- twilightforest:mine_door
+- twilightforest:sort_door
+- betterendforge:mossy_glowshroom_door
+- betterendforge:lacugrove_door
+- betterendforge:end_lotus_door
+- betterendforge:pythadendron_door
+- betterendforge:dragon_tree_door
+- betterendforge:tenanea_door
+- betterendforge:helix_tree_door
+- betterendforge:umbrella_tree_door
+- betterendforge:jellyshroom_door
+- betterendforge:lucernia_door
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+
+#botania:petals
+- #botania:petals/white
+- #botania:petals/orange
+- #botania:petals/magenta
+- #botania:petals/light_blue
+- #botania:petals/yellow
+- #botania:petals/lime
+- #botania:petals/pink
+- #botania:petals/gray
+- #botania:petals/light_gray
+- #botania:petals/cyan
+- #botania:petals/purple
+- #botania:petals/blue
+- #botania:petals/brown
+- #botania:petals/green
+- #botania:petals/red
+- #botania:petals/black
+
+#origins:meat
+- minecraft:rotten_flesh
+- minecraft:cod
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:beef
+- minecraft:porkchop
+- minecraft:mutton
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:cooked_chicken
+- minecraft:cooked_rabbit
+- minecraft:rabbit_stew
+- minecraft:cooked_porkchop
+- minecraft:cooked_cod
+- minecraft:cooked_beef
+- minecraft:cooked_mutton
+- minecraft:cooked_salmon
+- minecraft:spider_eye
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#forge:storage_blocks/ironwood
+- twilightforest:ironwood_block
+
+#minecraft:stone_tool_materials
+- betterendforge:flavolite
+- betterendforge:violecite
+- betterendforge:sulphuric_rock
+- betterendforge:virid_jadestone
+- betterendforge:azure_jadestone
+- betterendforge:sandy_jadestone
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#betterendforge:lucernia_logs
+- betterendforge:lucernia_log
+- betterendforge:lucernia_bark
+- betterendforge:lucernia_stripped_log
+- betterendforge:lucernia_stripped_bark
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#twilightforest:fiery_vial
+- twilightforest:fiery_blood
+- twilightforest:fiery_tears
+
+#forge:crops/rice
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#curios:ring
+- bountifulbaubles:apple
+- bountifulbaubles:balloon
+- bountifulbaubles:bezoar
+- bountifulbaubles:black_dragon_scale
+- bountifulbaubles:broken_heart
+- bountifulbaubles:horseshoe_balloon
+- bountifulbaubles:lucky_horseshoe
+- bountifulbaubles:mixed_dragon_scale
+- bountifulbaubles:ring_free_action
+- bountifulbaubles:ring_overclocking
+- bountifulbaubles:shulker_heart
+- bountifulbaubles:vitamins
+- botania:aura_ring
+- botania:aura_ring_greater
+- botania:dodge_ring
+- botania:loki_ring
+- botania:magnet_ring
+- botania:magnet_ring_greater
+- botania:mana_ring
+- botania:mana_ring_greater
+- botania:mining_ring
+- botania:odin_ring
+- botania:pixie_ring
+- botania:reach_ring
+- botania:swap_ring
+- botania:thor_ring
+- botania:water_ring
+- curios:ring
+- enigmaticlegacy:magnet_ring
+- enigmaticlegacy:super_magnet_ring
+- enigmaticlegacy:ender_ring
+- enigmaticlegacy:iron_ring
+- enigmaticlegacy:cursed_ring
+- enigmaticlegacy:gem_ring
+
+#twilightforest:darkwood_logs
+- twilightforest:dark_log
+- twilightforest:stripped_dark_log
+- twilightforest:dark_wood
+- twilightforest:stripped_dark_wood
+
+#minecraft:anvil
+- betterendforge:aeternium_anvil
+- betterendforge:thallasium_anvil
+- betterendforge:terminite_anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#forge:ores/ender
+- betterendforge:ender_ore
+
+#alexsmobs:elephant_foodstuffs
+- #minecraft:leaves
+- #minecraft:saplings
+- minecraft:sugar_cane
+- minecraft:apple
+- minecraft:beetroot
+- minecraft:potato
+- minecraft:carrot
+- minecraft:golden_carrot
+- minecraft:baked_potato
+- minecraft:hay_block
+- minecraft:bamboo
+- #alexsmobs:bananas
+- alexsmobs:acacia_blossom
+- minecraft:melon_slice
+- minecraft:sweet_berries
+
+#forge:dyes/yellow
+- minecraft:yellow_dye
+
+#forge:ingots/terrasteel
+- botania:terrasteel_ingot
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#botania:mystical_flowers
+- botania:black_mystical_flower
+- botania:blue_mystical_flower
+- botania:brown_mystical_flower
+- botania:cyan_mystical_flower
+- botania:gray_mystical_flower
+- botania:green_mystical_flower
+- botania:light_blue_mystical_flower
+- botania:light_gray_mystical_flower
+- botania:lime_mystical_flower
+- botania:magenta_mystical_flower
+- botania:orange_mystical_flower
+- botania:pink_mystical_flower
+- botania:purple_mystical_flower
+- botania:red_mystical_flower
+- botania:white_mystical_flower
+- botania:yellow_mystical_flower
+
+#alexsmobs:bald_eagle_tameables
+- alexsmobs:fish_oil
+
+#minecraft:stone_crafting_materials
+- betterendforge:flavolite
+- betterendforge:violecite
+- betterendforge:sulphuric_rock
+- betterendforge:virid_jadestone
+- betterendforge:azure_jadestone
+- betterendforge:sandy_jadestone
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#botania:lens
+- botania:lens_bounce
+- botania:lens_damage
+- botania:lens_efficiency
+- botania:lens_explosive
+- botania:lens_fire
+- botania:lens_firework
+- botania:lens_flare
+- botania:lens_gravity
+- botania:lens_influence
+- botania:lens_light
+- botania:lens_magnet
+- botania:lens_messenger
+- botania:lens_mine
+- botania:lens_normal
+- botania:lens_paint
+- botania:lens_phantom
+- botania:lens_piston
+- botania:lens_power
+- botania:lens_redirect
+- botania:lens_speed
+- botania:lens_storm
+- botania:lens_time
+- botania:lens_tripwire
+- botania:lens_warp
+- botania:lens_weight
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+
+#twilightforest:fences
+- twilightforest:twilight_oak_fence
+- twilightforest:canopy_fence
+- twilightforest:mangrove_fence
+- twilightforest:dark_fence
+- twilightforest:time_fence
+- twilightforest:trans_fence
+- twilightforest:mine_fence
+- twilightforest:sort_fence
+
+#forge:ingots/zinc
+- create:zinc_ingot
+
+#botania:disposable
+- minecraft:dirt
+- minecraft:sand
+- minecraft:gravel
+- minecraft:cobblestone
+- minecraft:netherrack
+
+#forge:nuggets/zinc
+- create:zinc_nugget
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#alexsmobs:tiger_breedables
+- alexsmobs:acacia_blossom
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:rods
+- #forge:rods/blaze
+- #forge:rods/wooden
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+- betterendforge:mossy_glowshroom_chest
+- betterendforge:lacugrove_chest
+- betterendforge:end_lotus_chest
+- betterendforge:pythadendron_chest
+- betterendforge:dragon_tree_chest
+- betterendforge:tenanea_chest
+- betterendforge:helix_tree_chest
+- betterendforge:umbrella_tree_chest
+- betterendforge:jellyshroom_chest
+- betterendforge:lucernia_chest
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#twilightforest:logs
+- #twilightforest:twilight_oak_logs
+- #twilightforest:canopy_logs
+- #twilightforest:mangrove_logs
+- #twilightforest:darkwood_logs
+- #twilightforest:timewood_logs
+- #twilightforest:transwood_logs
+- #twilightforest:mining_logs
+- #twilightforest:sortwood_logs
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#botania:double_mystical_flowers
+- botania:black_double_flower
+- botania:blue_double_flower
+- botania:brown_double_flower
+- botania:cyan_double_flower
+- botania:gray_double_flower
+- botania:green_double_flower
+- botania:light_blue_double_flower
+- botania:light_gray_double_flower
+- botania:lime_double_flower
+- botania:magenta_double_flower
+- botania:orange_double_flower
+- botania:pink_double_flower
+- botania:purple_double_flower
+- botania:red_double_flower
+- botania:white_double_flower
+- botania:yellow_double_flower
+
+#minecraft:wooden_stairs
+- twilightforest:twilight_oak_stairs
+- twilightforest:canopy_stairs
+- twilightforest:mangrove_stairs
+- twilightforest:dark_stairs
+- twilightforest:time_stairs
+- twilightforest:trans_stairs
+- twilightforest:mine_stairs
+- twilightforest:sort_stairs
+- betterendforge:neon_cactus_stairs
+- betterendforge:mossy_glowshroom_stairs
+- betterendforge:lacugrove_stairs
+- betterendforge:end_lotus_stairs
+- betterendforge:pythadendron_stairs
+- betterendforge:dragon_tree_stairs
+- betterendforge:tenanea_stairs
+- betterendforge:helix_tree_stairs
+- betterendforge:umbrella_tree_stairs
+- betterendforge:jellyshroom_stairs
+- betterendforge:lucernia_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+
+#alexsmobs:void_worm_drops
+- alexsmobs:void_worm_mandible
+- alexsmobs:void_worm_eye
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:wooden_buttons
+- twilightforest:twilight_oak_button
+- twilightforest:canopy_button
+- twilightforest:mangrove_button
+- twilightforest:dark_button
+- twilightforest:time_button
+- twilightforest:trans_button
+- twilightforest:mine_button
+- twilightforest:sort_button
+- betterendforge:mossy_glowshroom_button
+- betterendforge:lacugrove_button
+- betterendforge:end_lotus_button
+- betterendforge:pythadendron_button
+- betterendforge:dragon_tree_button
+- betterendforge:tenanea_button
+- betterendforge:helix_tree_button
+- betterendforge:umbrella_tree_button
+- betterendforge:jellyshroom_button
+- betterendforge:lucernia_button
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+
+#minecraft:stone_bricks
+- betterendforge:flavolite_bricks
+- betterendforge:violecite_bricks
+- betterendforge:sulphuric_rock_bricks
+- betterendforge:virid_jadestone_bricks
+- betterendforge:azure_jadestone_bricks
+- betterendforge:sandy_jadestone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#forge:storage_blocks/quartz
+- botania:dark_quartz
+- botania:mana_quartz
+- botania:blaze_quartz
+- botania:lavender_quartz
+- botania:red_quartz
+- botania:elf_quartz
+- botania:sunny_quartz
+- minecraft:quartz_block
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#forge:plates/gold
+- create:golden_sheet
+
+#forge:paper
+- minecraft:paper
+
+#minecraft:slabs
+- botania:black_pavement_slab
+- botania:blaze_quartz_slab
+- botania:blue_pavement_slab
+- botania:corporea_brick_slab
+- botania:corporea_slab
+- botania:dark_quartz_slab
+- botania:dreamwood_planks_slab
+- botania:dreamwood_slab
+- botania:elf_quartz_slab
+- botania:green_pavement_slab
+- botania:lavender_quartz_slab
+- botania:livingrock_bricks_slab
+- botania:livingrock_slab
+- botania:livingwood_planks_slab
+- botania:livingwood_slab
+- botania:mana_quartz_slab
+- botania:metamorphic_desert_bricks_slab
+- botania:metamorphic_desert_cobblestone_slab
+- botania:metamorphic_desert_stone_slab
+- botania:metamorphic_forest_bricks_slab
+- botania:metamorphic_forest_cobblestone_slab
+- botania:metamorphic_forest_stone_slab
+- botania:metamorphic_fungal_bricks_slab
+- botania:metamorphic_fungal_cobblestone_slab
+- botania:metamorphic_fungal_stone_slab
+- botania:metamorphic_mesa_bricks_slab
+- botania:metamorphic_mesa_cobblestone_slab
+- botania:metamorphic_mesa_stone_slab
+- botania:metamorphic_mountain_bricks_slab
+- botania:metamorphic_mountain_cobblestone_slab
+- botania:metamorphic_mountain_stone_slab
+- botania:metamorphic_plains_bricks_slab
+- botania:metamorphic_plains_cobblestone_slab
+- botania:metamorphic_plains_stone_slab
+- botania:metamorphic_swamp_bricks_slab
+- botania:metamorphic_swamp_cobblestone_slab
+- botania:metamorphic_swamp_stone_slab
+- botania:metamorphic_taiga_bricks_slab
+- botania:metamorphic_taiga_cobblestone_slab
+- botania:metamorphic_taiga_stone_slab
+- botania:mossy_livingrock_bricks_slab
+- botania:red_pavement_slab
+- botania:red_quartz_slab
+- botania:shimmerrock_slab
+- botania:shimmerwood_planks_slab
+- botania:sunny_quartz_slab
+- botania:white_pavement_slab
+- botania:yellow_pavement_slab
+- create:granite_cobblestone_slab
+- create:granite_bricks_slab
+- create:fancy_granite_bricks_slab
+- create:paved_granite_slab
+- create:diorite_cobblestone_slab
+- create:diorite_bricks_slab
+- create:fancy_diorite_bricks_slab
+- create:paved_diorite_slab
+- create:andesite_cobblestone_slab
+- create:andesite_bricks_slab
+- create:fancy_andesite_bricks_slab
+- create:paved_andesite_slab
+- create:limestone_cobblestone_slab
+- create:polished_limestone_slab
+- create:limestone_bricks_slab
+- create:fancy_limestone_bricks_slab
+- create:paved_limestone_slab
+- create:weathered_limestone_cobblestone_slab
+- create:polished_weathered_limestone_slab
+- create:weathered_limestone_bricks_slab
+- create:fancy_weathered_limestone_bricks_slab
+- create:paved_weathered_limestone_slab
+- create:dolomite_cobblestone_slab
+- create:polished_dolomite_slab
+- create:dolomite_bricks_slab
+- create:fancy_dolomite_bricks_slab
+- create:paved_dolomite_slab
+- create:gabbro_cobblestone_slab
+- create:polished_gabbro_slab
+- create:gabbro_bricks_slab
+- create:fancy_gabbro_bricks_slab
+- create:paved_gabbro_slab
+- create:scoria_cobblestone_slab
+- create:polished_scoria_slab
+- create:scoria_bricks_slab
+- create:fancy_scoria_bricks_slab
+- create:paved_scoria_slab
+- create:dark_scoria_cobblestone_slab
+- create:polished_dark_scoria_slab
+- create:dark_scoria_bricks_slab
+- create:fancy_dark_scoria_bricks_slab
+- create:paved_dark_scoria_slab
+- twilightforest:aurora_slab
+- betterendforge:dragon_bone_slab
+- betterendforge:neon_cactus_slab
+- betterendforge:mossy_glowshroom_slab
+- betterendforge:lacugrove_slab
+- betterendforge:end_lotus_slab
+- betterendforge:pythadendron_slab
+- betterendforge:dragon_tree_slab
+- betterendforge:tenanea_slab
+- betterendforge:helix_tree_slab
+- betterendforge:umbrella_tree_slab
+- betterendforge:jellyshroom_slab
+- betterendforge:lucernia_slab
+- betterendforge:flavolite_slab
+- betterendforge:flavolite_bricks_slab
+- betterendforge:violecite_slab
+- betterendforge:violecite_bricks_slab
+- betterendforge:sulphuric_rock_slab
+- betterendforge:sulphuric_rock_bricks_slab
+- betterendforge:virid_jadestone_slab
+- betterendforge:virid_jadestone_bricks_slab
+- betterendforge:azure_jadestone_slab
+- betterendforge:azure_jadestone_bricks_slab
+- betterendforge:sandy_jadestone_slab
+- betterendforge:sandy_jadestone_bricks_slab
+- betterendforge:thallasium_slab
+- betterendforge:terminite_slab
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#botania:petals/gray
+- botania:gray_petal
+- botania:gray_mushroom
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#botania:misc_special_flowers
+- botania:manastar
+- botania:pure_daisy
+- botania:bergamute
+
+#minecraft:buttons
+- betterendforge:mossy_glowshroom_button
+- betterendforge:lacugrove_button
+- betterendforge:end_lotus_button
+- betterendforge:pythadendron_button
+- betterendforge:dragon_tree_button
+- betterendforge:tenanea_button
+- betterendforge:helix_tree_button
+- betterendforge:umbrella_tree_button
+- betterendforge:jellyshroom_button
+- betterendforge:lucernia_button
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+
+#forge:plates/iron
+- create:iron_sheet
+
+#origins:ranged_weapons
+- minecraft:bow
+- minecraft:crossbow
+- minecraft:trident
+
+#minecraft:rails
+- botania:ghost_rail
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#forge:barrels/wooden
+- betterendforge:mossy_glowshroom_barrel
+- betterendforge:lacugrove_barrel
+- betterendforge:end_lotus_barrel
+- betterendforge:pythadendron_barrel
+- betterendforge:dragon_tree_barrel
+- betterendforge:tenanea_barrel
+- betterendforge:helix_tree_barrel
+- betterendforge:umbrella_tree_barrel
+- betterendforge:jellyshroom_barrel
+- betterendforge:lucernia_barrel
+
+#minecraft:wooden_pressure_plates
+- twilightforest:twilight_oak_plate
+- twilightforest:canopy_plate
+- twilightforest:mangrove_plate
+- twilightforest:dark_plate
+- twilightforest:time_plate
+- twilightforest:trans_plate
+- twilightforest:mine_plate
+- twilightforest:sort_plate
+- betterendforge:mossy_glowshroom_pressure_plate
+- betterendforge:lacugrove_pressure_plate
+- betterendforge:end_lotus_pressure_plate
+- betterendforge:pythadendron_pressure_plate
+- betterendforge:dragon_tree_pressure_plate
+- betterendforge:tenanea_pressure_plate
+- betterendforge:helix_tree_pressure_plate
+- betterendforge:umbrella_tree_pressure_plate
+- betterendforge:jellyshroom_pressure_plate
+- betterendforge:lucernia_pressure_plate
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+
+#minecraft:tall_flowers
+- #botania:double_mystical_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#botania:petals/purple
+- botania:purple_petal
+- botania:purple_mushroom
+
+#create:create_ingots
+- create:copper_ingot
+- create:zinc_ingot
+- create:brass_ingot
+
+#botania:runes/autumn
+- botania:rune_autumn
+
+#forge:bookshelves
+- minecraft:bookshelf
+- betterendforge:mossy_glowshroom_bookshelf
+- betterendforge:lacugrove_bookshelf
+- betterendforge:end_lotus_bookshelf
+- betterendforge:pythadendron_bookshelf
+- betterendforge:dragon_tree_bookshelf
+- betterendforge:tenanea_bookshelf
+- betterendforge:helix_tree_bookshelf
+- betterendforge:umbrella_tree_bookshelf
+- betterendforge:jellyshroom_bookshelf
+- betterendforge:lucernia_bookshelf
+
+#botania:runes/earth
+- botania:rune_earth
+
+#forge:ingots/aeternium
+- betterendforge:aeternium_ingot
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#curios:spellstone
+- enigmaticlegacy:enigmatic_item
+- enigmaticlegacy:golem_heart
+- enigmaticlegacy:eye_of_nebula
+- enigmaticlegacy:magma_heart
+- enigmaticlegacy:void_pearl
+- enigmaticlegacy:ocean_stone
+- enigmaticlegacy:angel_blessing
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#botania:petals/green
+- botania:green_petal
+- botania:green_mushroom
+
+#forge:netherrack
+- minecraft:netherrack
+
+#forge:nuggets/terminite
+- betterendforge:terminite_nugget
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#forge:eggs
+- alexsmobs:crocodile_egg
+- alexsmobs:emu_egg
+- minecraft:egg
+
+#forge:ingots/elementium
+- botania:elementium_ingot
+
+#betterendforge:hammers
+- betterendforge:iron_hammer
+- betterendforge:golden_hammer
+- betterendforge:diamond_hammer
+- betterendforge:netherite_hammer
+- betterendforge:aeternium_hammer
+- betterendforge:thallasium_hammer
+- betterendforge:terminite_hammer
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#twilightforest:twilight_oak_logs
+- twilightforest:twilight_oak_log
+- twilightforest:stripped_twilight_oak_log
+- twilightforest:twilight_oak_wood
+- twilightforest:stripped_twilight_oak_wood
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:glass/colorless
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- minecraft:glass
+
+#curios:body
+- bountifulbaubles:balloon
+- bountifulbaubles:broken_heart
+- bountifulbaubles:horseshoe_balloon
+- bountifulbaubles:shield_ankh
+- bountifulbaubles:shield_cobalt
+- bountifulbaubles:shield_obsidian
+- bountifulbaubles:shulker_heart
+- botania:balance_cloak
+- botania:holy_cloak
+- botania:invisibility_cloak
+- botania:third_eye
+- botania:unholy_cloak
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#twilightforest:timewood_logs
+- twilightforest:time_log
+- twilightforest:stripped_time_log
+- twilightforest:time_wood
+- twilightforest:stripped_time_wood
+
+#botania:runes/envy
+- botania:rune_envy
+
+#forge:ores/zinc
+- create:zinc_ore
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#forge:nuggets/copper
+- create:copper_nugget
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#twilightforest:arctic_fur
+- twilightforest:arctic_fur
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#botania:magnet_ring_blacklist
+
+#fabric:shovels
+- betternether:cincinnasite_shovel
+- betternether:cincinnasite_shovel_diamond
+- betternether:nether_ruby_shovel
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#alexsmobs:gorilla_foodstuffs
+- #minecraft:leaves
+- minecraft:sugar_cane
+- minecraft:apple
+- minecraft:bamboo
+- #alexsmobs:bananas
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#create:sandpaper
+- create:sand_paper
+- create:red_sand_paper
+
+#twilightforest:mangrove_logs
+- twilightforest:mangrove_log
+- twilightforest:stripped_mangrove_log
+- twilightforest:mangrove_wood
+- twilightforest:stripped_mangrove_wood
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+
+#forge:nuggets/manasteel
+- botania:manasteel_nugget
+
+#twilightforest:sortwood_logs
+- twilightforest:sorting_log
+- twilightforest:stripped_sorting_log
+- twilightforest:sorting_wood
+- twilightforest:stripped_sorting_wood
+
+#forge:ingots/fiery
+- twilightforest:fiery_ingot
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#forge:bones
+- minecraft:bone
+
+#forge:glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#forge:gems/mana_diamond
+- botania:mana_diamond
+
+#forge:mushrooms
+- botania:white_mushroom
+- botania:orange_mushroom
+- botania:magenta_mushroom
+- botania:light_blue_mushroom
+- botania:yellow_mushroom
+- botania:lime_mushroom
+- botania:pink_mushroom
+- botania:gray_mushroom
+- botania:light_gray_mushroom
+- botania:cyan_mushroom
+- botania:purple_mushroom
+- botania:blue_mushroom
+- botania:brown_mushroom
+- botania:green_mushroom
+- botania:red_mushroom
+- botania:black_mushroom
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- betterendforge:bolux_mushroom
+- betterendforge:chorus_mushroom_raw
+
+#botania:livingwood
+- botania:livingwood
+
+#twilightforest:mining_logs
+- twilightforest:mining_log
+- twilightforest:stripped_mining_log
+- twilightforest:mining_wood
+- twilightforest:stripped_mining_wood
+
+#forge:crops/banana
+- alexsmobs:banana
+
+#botania:runes/air
+- botania:rune_air
+
+#quark:big_harvesting_hoes
+- botania:elementium_hoe
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#minecraft:fences
+- botania:dreamwood_fence
+- botania:livingwood_fence
+- betterendforge:mossy_glowshroom_fence
+- betterendforge:lacugrove_fence
+- betterendforge:end_lotus_fence
+- betterendforge:pythadendron_fence
+- betterendforge:dragon_tree_fence
+- betterendforge:tenanea_fence
+- betterendforge:helix_tree_fence
+- betterendforge:umbrella_tree_fence
+- betterendforge:jellyshroom_fence
+- betterendforge:lucernia_fence
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+
+#minecraft:saplings
+- twilightforest:twilight_oak_sapling
+- twilightforest:canopy_sapling
+- twilightforest:mangrove_sapling
+- twilightforest:darkwood_sapling
+- twilightforest:time_sapling
+- twilightforest:transformation_sapling
+- twilightforest:mining_sapling
+- twilightforest:sorting_sapling
+- twilightforest:hollow_oak_sapling
+- twilightforest:rainboak_sapling
+- betterendforge:mossy_glowshroom_sapling
+- betterendforge:lacugrove_sapling
+- betterendforge:pythadendron_sapling
+- betterendforge:dragon_tree_sapling
+- betterendforge:tenanea_sapling
+- betterendforge:helix_tree_sapling
+- betterendforge:umbrella_tree_sapling
+- betterendforge:lucernia_sapling
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+
+#forge:ores/copper
+- create:copper_ore
+
+#forge:storage_blocks/knightmetal
+- twilightforest:knightmetal_block
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#botania:petals/cyan
+- botania:cyan_petal
+- botania:cyan_mushroom
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#botania:petals/orange
+- botania:orange_petal
+- botania:orange_mushroom
+
+#minecraft:wooden_fences
+- twilightforest:twilight_oak_fence
+- twilightforest:canopy_fence
+- twilightforest:mangrove_fence
+- twilightforest:dark_fence
+- twilightforest:time_fence
+- twilightforest:trans_fence
+- twilightforest:mine_fence
+- twilightforest:sort_fence
+- betterendforge:mossy_glowshroom_fence
+- betterendforge:lacugrove_fence
+- betterendforge:end_lotus_fence
+- betterendforge:pythadendron_fence
+- betterendforge:dragon_tree_fence
+- betterendforge:tenanea_fence
+- betterendforge:helix_tree_fence
+- betterendforge:umbrella_tree_fence
+- betterendforge:jellyshroom_fence
+- betterendforge:lucernia_fence
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+
+#forge:fruits/banana
+- alexsmobs:banana
+
+#forge:cooked_fishes
+- betterendforge:end_fish_cooked
+
+#twilightforest:transwood_logs
+- twilightforest:transformation_log
+- twilightforest:stripped_transformation_log
+- twilightforest:transformation_wood
+- twilightforest:stripped_transformation_wood
+
+#forge:obsidian
+- minecraft:obsidian
+
+#curios:necklace
+- bountifulbaubles:amulet_cross
+- bountifulbaubles:amulet_sin_gluttony
+- bountifulbaubles:amulet_sin_pride
+- bountifulbaubles:amulet_sin_wrath
+- bountifulbaubles:apple
+- bountifulbaubles:balloon
+- bountifulbaubles:bezoar
+- bountifulbaubles:black_dragon_scale
+- bountifulbaubles:broken_heart
+- bountifulbaubles:horseshoe_balloon
+- bountifulbaubles:lucky_horseshoe
+- bountifulbaubles:mixed_dragon_scale
+- bountifulbaubles:obsidian_skull
+- bountifulbaubles:shulker_heart
+- bountifulbaubles:vitamins
+- botania:blood_pendant
+- botania:cloud_pendant
+- botania:ice_pendant
+- botania:lava_pendant
+- botania:super_cloud_pendant
+- botania:super_lava_pendant
+- curios:amulet
+- artifacts:cross_necklace
+- artifacts:flame_pendant
+- artifacts:lucky_scarf
+- artifacts:panic_necklace
+- artifacts:scarf_of_invisibility
+- artifacts:shock_pendant
+- artifacts:thorn_pendant
+- artifacts:charm_of_sinking
+
+#alexsmobs:shoebill_foodstuffs
+- #minecraft:fishes
+
+#forge:storage_blocks/fiery
+- twilightforest:fiery_block
+
+#forge:ingots/steeleaf
+- twilightforest:steeleaf_ingot
+
+#forge:buckets/honey
+- create:honey_bucket
+
+#botania:livingrock
+- botania:livingrock
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#forge:ingots/manasteel
+- botania:manasteel_ingot
+
+#fabric:shears
+- betternether:cincinnasite_shears
+
+#botania:runes/lust
+- botania:rune_lust
+
+#forge:feathers
+- minecraft:feather
+- minecraft:feather
+- twilightforest:raven_feather
+
+#alexsmobs:raccoon_foodstuffs
+- minecraft:egg
+- minecraft:turtle_egg
+- minecraft:sugar
+
+#forge:workbench
+- betterendforge:mossy_glowshroom_crafting_table
+- betterendforge:lacugrove_crafting_table
+- betterendforge:end_lotus_crafting_table
+- betterendforge:pythadendron_crafting_table
+- betterendforge:dragon_tree_crafting_table
+- betterendforge:tenanea_crafting_table
+- betterendforge:helix_tree_crafting_table
+- betterendforge:umbrella_tree_crafting_table
+- betterendforge:jellyshroom_crafting_table
+- betterendforge:lucernia_crafting_table
+
+#botania:runes/greed
+- botania:rune_greed
+
+#forge:storage_blocks/elementium
+- botania:elementium_block
+
+#forge:string
+- minecraft:string
+
+#betterendforge:lacugrove_logs
+- betterendforge:lacugrove_log
+- betterendforge:lacugrove_bark
+- betterendforge:lacugrove_stripped_log
+- betterendforge:lacugrove_stripped_bark
+
+#minecraft:trapdoors
+- betterendforge:mossy_glowshroom_trapdoor
+- betterendforge:lacugrove_trapdoor
+- betterendforge:end_lotus_trapdoor
+- betterendforge:pythadendron_trapdoor
+- betterendforge:dragon_tree_trapdoor
+- betterendforge:tenanea_trapdoor
+- betterendforge:helix_tree_trapdoor
+- betterendforge:umbrella_tree_trapdoor
+- betterendforge:jellyshroom_trapdoor
+- betterendforge:lucernia_trapdoor
+- betterendforge:thallasium_trapdoor
+- betterendforge:terminite_trapdoor
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#forge:leather
+- minecraft:leather
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+
+#forge:ores/ironwood
+- twilightforest:ironwood_raw
+
+#botania:petals/light_blue
+- botania:light_blue_petal
+- botania:light_blue_mushroom
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#minecraft:leaves
+- twilightforest:rainboak_leaves
+- twilightforest:twilight_oak_leaves
+- twilightforest:canopy_leaves
+- twilightforest:mangrove_leaves
+- twilightforest:dark_leaves
+- twilightforest:time_leaves
+- twilightforest:transformation_leaves
+- twilightforest:mining_leaves
+- twilightforest:sorting_leaves
+- twilightforest:thorn_leaves
+- twilightforest:beanstalk_leaves
+- betterendforge:lacugrove_leaves
+- betterendforge:pythadendron_leaves
+- betterendforge:dragon_tree_leaves
+- betterendforge:tenanea_leaves
+- betterendforge:lucernia_leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+
+#curios:feet
+- artifacts:bunny_hoppers
+- artifacts:flippers
+- artifacts:kitty_slippers
+- artifacts:running_shoes
+- artifacts:steadfast_spikes
+- artifacts:aqua_dashers
+
+#forge:storage_blocks/brass
+- create:brass_block
+
+#forge:crops/potato
+- minecraft:potato
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#botania:terra_pick_blacklist
+- botania:aura_ring
+- botania:aura_ring_greater
+- botania:terrasteel_helmet
+- botania:spark
+
+#botania:burst_viewers
+- botania:monocle
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#minecraft:piglin_loved
+- botania:alchemy_catalyst
+- botania:cacophonium
+- botania:diva_charm
+- botania:hourglass
+- botania:mana_pylon
+- botania:monocle
+- create:golden_sheet
+- create:crushed_gold_ore
+- artifacts:golden_hook
+- betterendforge:golden_hammer
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#curios:head
+- bountifulbaubles:obsidian_skull
+- bountifulbaubles:sunglasses
+- botania:flight_tiara
+- botania:itemfinder
+- curios:crown
+- artifacts:night_vision_goggles
+- artifacts:novelty_drinking_hat
+- artifacts:plastic_drinking_hat
+- artifacts:snorkel
+- artifacts:superstitious_hat
+- artifacts:villager_hat
+
+#forge:storage_blocks/zinc
+- create:zinc_block
+
+#forge:sand/red
+- minecraft:red_sand
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#forge:vegetables
+- betterendforge:amber_root_raw
+
+#betterendforge:umbrella_tree_logs
+- betterendforge:umbrella_tree_log
+- betterendforge:umbrella_tree_bark
+- betterendforge:umbrella_tree_stripped_log
+- betterendforge:umbrella_tree_stripped_bark
+
+#minecraft:logs_that_burn
+- #twilightforest:twilight_oak_logs
+- #twilightforest:canopy_logs
+- #twilightforest:mangrove_logs
+- #twilightforest:timewood_logs
+- #twilightforest:transwood_logs
+- #twilightforest:mining_logs
+- #twilightforest:sortwood_logs
+- betterendforge:mossy_glowshroom_log
+- betterendforge:mossy_glowshroom_bark
+- betterendforge:mossy_glowshroom_stripped_log
+- betterendforge:mossy_glowshroom_stripped_bark
+- betterendforge:lacugrove_log
+- betterendforge:lacugrove_bark
+- betterendforge:lacugrove_stripped_log
+- betterendforge:lacugrove_stripped_bark
+- betterendforge:end_lotus_log
+- betterendforge:end_lotus_bark
+- betterendforge:end_lotus_stripped_log
+- betterendforge:end_lotus_stripped_bark
+- betterendforge:pythadendron_log
+- betterendforge:pythadendron_bark
+- betterendforge:pythadendron_stripped_log
+- betterendforge:pythadendron_stripped_bark
+- betterendforge:dragon_tree_log
+- betterendforge:dragon_tree_bark
+- betterendforge:dragon_tree_stripped_log
+- betterendforge:dragon_tree_stripped_bark
+- betterendforge:tenanea_log
+- betterendforge:tenanea_bark
+- betterendforge:tenanea_stripped_log
+- betterendforge:tenanea_stripped_bark
+- betterendforge:helix_tree_log
+- betterendforge:helix_tree_bark
+- betterendforge:helix_tree_stripped_log
+- betterendforge:helix_tree_stripped_bark
+- betterendforge:umbrella_tree_log
+- betterendforge:umbrella_tree_bark
+- betterendforge:umbrella_tree_stripped_log
+- betterendforge:umbrella_tree_stripped_bark
+- betterendforge:jellyshroom_log
+- betterendforge:jellyshroom_bark
+- betterendforge:jellyshroom_stripped_log
+- betterendforge:jellyshroom_stripped_bark
+- betterendforge:lucernia_log
+- betterendforge:lucernia_bark
+- betterendforge:lucernia_stripped_log
+- betterendforge:lucernia_stripped_bark
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#minecraft:wooden_slabs
+- betternether:stalagnate_planks_slab
+- betternether:reeds_slab
+- betternether:willow_slab
+- betternether:wart_slab
+- betternether:mushroom_fir_slab
+- betternether:rubeus_slab
+- betternether:anchor_tree_slab
+- twilightforest:twilight_oak_slab
+- twilightforest:canopy_slab
+- twilightforest:mangrove_slab
+- twilightforest:dark_slab
+- twilightforest:time_slab
+- twilightforest:trans_slab
+- twilightforest:mine_slab
+- twilightforest:sort_slab
+- betterendforge:neon_cactus_slab
+- betterendforge:mossy_glowshroom_slab
+- betterendforge:lacugrove_slab
+- betterendforge:end_lotus_slab
+- betterendforge:pythadendron_slab
+- betterendforge:dragon_tree_slab
+- betterendforge:tenanea_slab
+- betterendforge:helix_tree_slab
+- betterendforge:umbrella_tree_slab
+- betterendforge:jellyshroom_slab
+- betterendforge:lucernia_slab
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#minecraft:small_flowers
+- #botania:mystical_flowers
+- #botania:special_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#forge:dusts/redstone
+- minecraft:redstone
+
+#forge:ores/knightmetal
+- twilightforest:armor_shard_cluster
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#forge:storage_blocks/manasteel
+- botania:manasteel_block
+
+#betterendforge:mossy_glowshroom_logs
+- betterendforge:mossy_glowshroom_log
+- betterendforge:mossy_glowshroom_bark
+- betterendforge:mossy_glowshroom_stripped_log
+- betterendforge:mossy_glowshroom_stripped_bark
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#botania:petals/lime
+- botania:lime_petal
+- botania:lime_mushroom
+
+#botania:petals/magenta
+- botania:magenta_petal
+- botania:magenta_mushroom
+
+#botania:runes/spring
+- botania:rune_spring
+
+#forge:ores/amber
+- betterendforge:amber_ore
+
+#betterendforge:furnaces
+- minecraft:furnace
+- betterendforge:end_stone_furnace
+- betterendforge:flavolite_furnace
+- betterendforge:violecite_furnace
+- betterendforge:sulphuric_rock_furnace
+- betterendforge:virid_jadestone_furnace
+- betterendforge:azure_jadestone_furnace
+- betterendforge:sandy_jadestone_furnace
+
+#betterendforge:helix_tree_logs
+- betterendforge:helix_tree_log
+- betterendforge:helix_tree_bark
+- betterendforge:helix_tree_stripped_log
+- betterendforge:helix_tree_stripped_bark
+
+#twilightforest:fence_gates
+- twilightforest:twilight_oak_gate
+- twilightforest:canopy_gate
+- twilightforest:mangrove_gate
+- twilightforest:dark_gate
+- twilightforest:time_gate
+- twilightforest:trans_gate
+- twilightforest:mine_gate
+- twilightforest:sort_gate
+
+#forge:stone
+- create:limestone
+- create:polished_limestone
+- create:weathered_limestone
+- create:polished_weathered_limestone
+- create:dolomite
+- create:polished_dolomite
+- create:gabbro
+- create:polished_gabbro
+- create:scoria
+- create:polished_scoria
+- create:dark_scoria
+- create:polished_dark_scoria
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- betterendforge:flavolite
+- betterendforge:violecite
+- betterendforge:sulphuric_rock
+- betterendforge:virid_jadestone
+- betterendforge:azure_jadestone
+- betterendforge:sandy_jadestone
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#forge:plates/brass
+- create:brass_sheet
+
+#alexsmobs:platypus_foodstuffs
+- minecraft:redstone
+- minecraft:redstone_block
+- alexsmobs:mosquito_larva
+- alexsmobs:maggot
+- alexsmobs:mosquito_larva
+- #minecraft:fishes
+- alexsmobs:lobster_tail
+- alexsmobs:cooked_lobster_tail
+
+#botania:runes/mana
+- botania:rune_mana
+
+#betterendforge:tenanea_logs
+- betterendforge:tenanea_log
+- betterendforge:tenanea_bark
+- betterendforge:tenanea_stripped_log
+- betterendforge:tenanea_stripped_bark
+
+#botania:generating_special_flowers
+- botania:dandelifeon
+- botania:endoflame
+- botania:entropinnyum
+- botania:gourmaryllis
+- botania:hydroangeas
+- botania:kekimurus
+- botania:munchdew
+- botania:narslimmus
+- botania:rafflowsia
+- botania:rosa_arcana
+- botania:shulk_me_not
+- botania:spectrolus
+- botania:thermalily
+
+#create:crushed_ores
+- create:crushed_iron_ore
+- create:crushed_gold_ore
+- create:crushed_copper_ore
+- create:crushed_zinc_ore
+- create:crushed_brass
+- create:crushed_osmium_ore
+- create:crushed_platinum_ore
+- create:crushed_silver_ore
+- create:crushed_tin_ore
+- create:crushed_lead_ore
+- create:crushed_quicksilver_ore
+- create:crushed_aluminum_ore
+- create:crushed_uranium_ore
+- create:crushed_nickel_ore
+
+#forge:crops
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+
+#botania:runes/fire
+- botania:rune_fire
+
+#alexsmobs:mimic_octopus_guardian_items
+- minecraft:prismarine_shard
+- minecraft:prismarine_crystals
+
+#alexsmobs:grizzly_honey
+- minecraft:honeycomb
+- minecraft:honey_block
+- minecraft:honeycomb_block
+- minecraft:honey_bottle
+
+#curios:charm
+- bountifulbaubles:ankh_charm
+- bountifulbaubles:apple
+- bountifulbaubles:balloon
+- bountifulbaubles:bezoar
+- bountifulbaubles:black_dragon_scale
+- bountifulbaubles:broken_heart
+- bountifulbaubles:horseshoe_balloon
+- bountifulbaubles:lucky_horseshoe
+- bountifulbaubles:mixed_dragon_scale
+- bountifulbaubles:obsidian_skull
+- bountifulbaubles:phylactery_charm
+- bountifulbaubles:shield_ankh
+- bountifulbaubles:shield_cobalt
+- bountifulbaubles:shield_obsidian
+- bountifulbaubles:shulker_heart
+- bountifulbaubles:vitamins
+- botania:diva_charm
+- botania:goddess_charm
+- botania:monocle
+- botania:tiny_planet
+- enigmaticlegacy:enigmatic_amulet
+- enigmaticlegacy:mega_sponge
+- enigmaticlegacy:monster_charm
+- enigmaticlegacy:mining_charm
+- enigmaticlegacy:berserk_emblem
+- enigmaticlegacy:enchanter_pearl
+
+#botania:runes/winter
+- botania:rune_winter
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:dusts
+- #forge:dusts/mana
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+- betterendforge:ender_dust
+
+#alexsmobs:bananas
+- #forge:crops/banana
+- #forge:fruits/banana
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#botania:runes/wrath
+- botania:rune_wrath
+
+#betterendforge:jellyshroom_logs
+- betterendforge:jellyshroom_log
+- betterendforge:jellyshroom_bark
+- betterendforge:jellyshroom_stripped_log
+- betterendforge:jellyshroom_stripped_bark
+
+#botania:contributor_headflowers
+- #botania:special_flowers
+- botania:daybloom_motif
+- botania:nightshade_motif
+
+#forge:seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+- betterendforge:blue_vine_seed
+- betterendforge:end_lily_seed
+- betterendforge:hydralux_sapling
+- betterendforge:lanceleaf_seed
+- betterendforge:lumecorn_seed
+- betterendforge:glowing_pillar_seed
+- betterendforge:shadow_berry
+- betterendforge:blossom_berry_seed
+- betterendforge:amber_root_seed
+- betterendforge:chorus_mushroom_seed
+- betterendforge:bulb_vine_seed
+- betterendforge:end_lotus_seed
+
+#botania:rods
+- botania:dirt_rod
+- botania:skydirt_rod
+- botania:terraform_rod
+- botania:cobble_rod
+- botania:water_rod
+- botania:tornado_rod
+- botania:fire_rod
+- botania:divining_rod
+- botania:smelt_rod
+- botania:exchange_rod
+- botania:rainbow_rod
+- botania:gravity_rod
+- botania:missile_rod
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#alexsmobs:shrimp_rice_fryables
+- #forge:crops/rice
+
+#quark:reacharound_able
+- botania:dirt_rod
+- botania:cobble_rod
+- botania:black_hole_talisman
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#curios:belt
+- botania:knockback_belt
+- botania:super_travel_belt
+- botania:travel_belt
+- botania:speed_up_belt
+- artifacts:antidote_vessel
+- artifacts:cloud_in_a_bottle
+- artifacts:crystal_heart
+- artifacts:obsidian_skull
+- artifacts:universal_attractor
+- artifacts:helium_flamingo
+
+#forge:slimeballs
+- minecraft:slime_ball
+
+#betterendforge:dragon_tree_logs
+- betterendforge:dragon_tree_log
+- betterendforge:dragon_tree_bark
+- betterendforge:dragon_tree_stripped_log
+- betterendforge:dragon_tree_stripped_bark
+
+#alexsmobs:mimic_octopus_creeper_items
+- minecraft:gunpowder
+- minecraft:creeper_head
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#minecraft:lectern_books
+- patchouli:guide_book
+- minecraft:written_book
+- minecraft:writable_book
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- twilightforest:twilight_oak_gate
+- twilightforest:canopy_gate
+- twilightforest:mangrove_gate
+- twilightforest:dark_gate
+- twilightforest:time_gate
+- twilightforest:trans_gate
+- twilightforest:mine_gate
+- twilightforest:sort_gate
+- betterendforge:mossy_glowshroom_gate
+- betterendforge:lacugrove_gate
+- betterendforge:end_lotus_gate
+- betterendforge:pythadendron_gate
+- betterendforge:dragon_tree_gate
+- betterendforge:tenanea_gate
+- betterendforge:helix_tree_gate
+- betterendforge:umbrella_tree_gate
+- betterendforge:jellyshroom_gate
+- betterendforge:lucernia_gate
+
+#forge:ingots/thallasium
+- betterendforge:thallasium_ingot
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#botania:runes/pride
+- botania:rune_pride
+
+#forge:shears
+- botania:elementium_shears
+- botania:manasteel_shears
+- minecraft:shears
+
+#botania:semi_disposable
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- quark:basalt?
+- quark:jasper?
+- quark:limestone?
+- quark:marble?
+- quark:slate?
+
+#curios:scroll
+- enigmaticlegacy:xp_scroll
+- enigmaticlegacy:escape_scroll
+- enigmaticlegacy:heaven_scroll
+- enigmaticlegacy:fabulous_scroll
+- enigmaticlegacy:cursed_scroll
+- enigmaticlegacy:avarice_scroll
+- enigmaticlegacy:darkest_scroll
+
+#botania:runes
+- #botania:runes/water
+- #botania:runes/fire
+- #botania:runes/earth
+- #botania:runes/air
+- #botania:runes/spring
+- #botania:runes/summer
+- #botania:runes/autumn
+- #botania:runes/winter
+- #botania:runes/mana
+- #botania:runes/lust
+- #botania:runes/gluttony
+- #botania:runes/greed
+- #botania:runes/sloth
+- #botania:runes/wrath
+- #botania:runes/envy
+- #botania:runes/pride
+
+#twilightforest:portal/activator
+- #forge:gems/diamond
+
+#botania:runes/water
+- botania:rune_water
+
+#botania:petals/blue
+- botania:blue_petal
+- botania:blue_mushroom
+
+#forge:ingots/ironwood
+- twilightforest:ironwood_ingot
+
+#betternether:soul_ground
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#minecraft:flowers
+- alexsmobs:acacia_blossom
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+
+#minecraft:planks
+- betternether:stalagnate_planks
+- betternether:willow_planks
+- betternether:wart_planks
+- betternether:mushroom_planks
+- betternether:mushroom_fir_planks
+- betternether:rubeus_planks
+- betternether:anchor_tree_planks
+- twilightforest:twilight_oak_planks
+- twilightforest:canopy_planks
+- twilightforest:mangrove_planks
+- twilightforest:dark_planks
+- twilightforest:time_planks
+- twilightforest:trans_planks
+- twilightforest:mine_planks
+- twilightforest:sort_planks
+- twilightforest:tower_wood
+- twilightforest:tower_wood_encased
+- twilightforest:tower_wood_cracked
+- twilightforest:tower_wood_mossy
+- twilightforest:tower_wood_infested
+- betterendforge:mossy_glowshroom_planks
+- betterendforge:lacugrove_planks
+- betterendforge:end_lotus_planks
+- betterendforge:pythadendron_planks
+- betterendforge:dragon_tree_planks
+- betterendforge:tenanea_planks
+- betterendforge:helix_tree_planks
+- betterendforge:umbrella_tree_planks
+- betterendforge:jellyshroom_planks
+- betterendforge:lucernia_planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+
+#botania:special_flowers
+- #botania:misc_special_flowers
+- #botania:generating_special_flowers
+- #botania:functional_special_flowers
+
+#forge:cobblestone
+- create:granite_cobblestone
+- create:diorite_cobblestone
+- create:andesite_cobblestone
+- create:limestone_cobblestone
+- create:weathered_limestone_cobblestone
+- create:dolomite_cobblestone
+- create:gabbro_cobblestone
+- create:scoria_cobblestone
+- create:dark_scoria_cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+
+#forge:elytra
+- minecraft:elytra
+
+#botania:functional_special_flowers
+- botania:agricarnation
+- botania:agricarnation_chibi
+- botania:bellethorn
+- botania:bellethorn_chibi
+- botania:bubbell
+- botania:bubbell_chibi
+- botania:clayconia
+- botania:clayconia_chibi
+- botania:daffomill
+- botania:dreadthorn
+- botania:exoflame
+- botania:fallen_kanade
+- botania:heisei_dream
+- botania:hopperhock
+- botania:hopperhock_chibi
+- botania:hyacidus
+- botania:jaded_amaranthus
+- botania:jiyuulia
+- botania:jiyuulia_chibi
+- botania:labellia
+- botania:loonium
+- botania:marimorphosis
+- botania:marimorphosis_chibi
+- botania:medumone
+- botania:orechid
+- botania:orechid_ignem
+- botania:pollidisiac
+- botania:rannuncarpus
+- botania:rannuncarpus_chibi
+- botania:solegnolia
+- botania:solegnolia_chibi
+- botania:spectranthemum
+- botania:tangleberrie
+- botania:tangleberrie_chibi
+- botania:tigerseye
+- botania:vinculotus
+
+#betterendforge:pythadendron_logs
+- betterendforge:pythadendron_log
+- betterendforge:pythadendron_bark
+- betterendforge:pythadendron_stripped_log
+- betterendforge:pythadendron_stripped_bark
+
+#alexsmobs:mimic_octopus_pufferfish_items
+- minecraft:pufferfish
+- minecraft:pufferfish_bucket
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#forge:ores
+- create:copper_ore
+- create:zinc_ore
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- #forge:ores/ironwood
+- #forge:ores/knightmetal
+- betterendforge:ender_ore
+- betterendforge:amber_ore
+- betterendforge:thallasium_ore
+
+#botania:petals/brown
+- botania:brown_petal
+- botania:brown_mushroom
+
+#forge:rods/wooden
+- minecraft:stick
+
+#curios:curio
+- botania:cosmetic_black_bowtie
+- botania:cosmetic_black_tie
+- botania:cosmetic_red_glasses
+- botania:cosmetic_puffy_scarf
+- botania:cosmetic_engineer_goggles
+- botania:cosmetic_eyepatch
+- botania:cosmetic_wicked_eyepatch
+- botania:cosmetic_red_ribbons
+- botania:cosmetic_pink_flower_bud
+- botania:cosmetic_polka_dotted_bows
+- botania:cosmetic_blue_butterfly
+- botania:cosmetic_cat_ears
+- botania:cosmetic_witch_pin
+- botania:cosmetic_devil_tail
+- botania:cosmetic_kamui_eye
+- botania:cosmetic_googly_eyes
+- botania:cosmetic_four_leaf_clover
+- botania:cosmetic_clock_eye
+- botania:cosmetic_unicorn_horn
+- botania:cosmetic_devil_horns
+- botania:cosmetic_hyper_plus
+- botania:cosmetic_botanist_emblem
+- botania:cosmetic_ancient_mask
+- botania:cosmetic_eerie_mask
+- botania:cosmetic_alien_antenna
+- botania:cosmetic_anaglyph_glasses
+- botania:cosmetic_orange_shades
+- botania:cosmetic_groucho_glasses
+- botania:cosmetic_thick_eyebrows
+- botania:cosmetic_lusitanic_shield
+- botania:cosmetic_tiny_potato_mask
+- botania:cosmetic_questgiver_mark
+- botania:cosmetic_thinking_hand
+- artifacts:whoopee_cushion
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+- twilightforest:twilight_oak_fence
+- twilightforest:canopy_fence
+- twilightforest:mangrove_fence
+- twilightforest:dark_fence
+- twilightforest:time_fence
+- twilightforest:trans_fence
+- twilightforest:mine_fence
+- twilightforest:sort_fence
+- betterendforge:mossy_glowshroom_fence
+- betterendforge:lacugrove_fence
+- betterendforge:end_lotus_fence
+- betterendforge:pythadendron_fence
+- betterendforge:dragon_tree_fence
+- betterendforge:tenanea_fence
+- betterendforge:helix_tree_fence
+- betterendforge:umbrella_tree_fence
+- betterendforge:jellyshroom_fence
+- betterendforge:lucernia_fence
+
+#curios:back
+- bountifulbaubles:shield_ankh
+- bountifulbaubles:shield_cobalt
+- bountifulbaubles:shield_obsidian
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#artifacts:artifacts
+- artifacts:umbrella
+- artifacts:everlasting_beef
+- artifacts:eternal_steak
+- artifacts:plastic_drinking_hat
+- artifacts:novelty_drinking_hat
+- artifacts:snorkel
+- artifacts:night_vision_goggles
+- artifacts:villager_hat
+- artifacts:superstitious_hat
+- artifacts:lucky_scarf
+- artifacts:scarf_of_invisibility
+- artifacts:cross_necklace
+- artifacts:panic_necklace
+- artifacts:shock_pendant
+- artifacts:flame_pendant
+- artifacts:thorn_pendant
+- artifacts:charm_of_sinking
+- artifacts:cloud_in_a_bottle
+- artifacts:obsidian_skull
+- artifacts:antidote_vessel
+- artifacts:universal_attractor
+- artifacts:crystal_heart
+- artifacts:helium_flamingo
+- artifacts:digging_claws
+- artifacts:feral_claws
+- artifacts:power_glove
+- artifacts:fire_gauntlet
+- artifacts:pocket_piston
+- artifacts:vampiric_glove
+- artifacts:golden_hook
+- artifacts:aqua_dashers
+- artifacts:bunny_hoppers
+- artifacts:kitty_slippers
+- artifacts:running_shoes
+- artifacts:steadfast_spikes
+- artifacts:flippers
+- artifacts:whoopee_cushion
+
+#forge:heart
+- alexsmobs:soul_heart
+
+#forge:plates/copper
+- create:copper_sheet
+
+#botania:petals/white
+- botania:white_petal
+- botania:white_mushroom

@@ -1,0 +1,343 @@
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Biome Identity                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+TemplateForBiome: false
+
+BiomeDictTags: OVERWORLD, MAGICAL
+
+BiomeCategory: mushroom
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                         Biome placement                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeSize: 0
+
+BiomeRarity: 100
+
+BiomeColor: #434343
+
+
+#######################################################################
+# |                           Isle biomes                           | #
+#######################################################################
+
+IsleInBiome: Dregora_Canyon_OakForestHole
+
+BiomeSizeWhenIsle: 7
+
+BiomeRarityWhenIsle: 97
+
+#################
+# Border biomes #
+#################
+
+BiomeIsBorder: 
+
+OnlyBorderNear: 
+
+NotBorderNear: 
+
+BiomeSizeWhenBorder: 8
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                  Terrain height and volatility                  | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeHeight: 1.0
+
+BiomeVolatility: 4.5
+
+SmoothRadius: 10
+
+CustomHeightControlSmoothRadius: 2
+
+MaxAverageHeight: 0.0
+
+MaxAverageDepth: 0.0
+
+Volatility1: 0.0
+
+Volatility2: 0.0
+
+VolatilityWeight1: 0.5
+
+VolatilityWeight2: 0.45
+
+DisableBiomeHeight: false
+
+CustomHeightControl: 2500.0, 100.0, 250.0, 100.0, 2500.0, 100.0, 150.0, 100.0, 2500.0, 2500.0, 2500.0, 300.0, 50.0, 300.0, 2500.0, 1500.0, 2000.0, 2500.0, -2500.0, -2500.0, 2500.0, -2500.0, -2500.0, 2500.0, 5500.0, 5500.0, 5500.0, -2500.0, -2500.0, -2500.0, -2500.0, -2500.0, -2500.0
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Rivers                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+RiverBiome: River
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                              Blocks                             | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+StoneBlock: minecraft:stone
+
+SurfaceBlock: minecraft:sand
+
+GroundBlock: minecraft:sandstone
+
+UnderWaterSurfaceBlock: minecraft:sandstone
+
+SurfaceAndGroundControl: minecraft:stone, minecraft:stone, minecraft:stone, -0.7, minecraft:diorite, minecraft:diorite, minecraft:stone, -0.35, minecraft:obsidian, minecraft:obsidian, minecraft:obsidian, -0.1, minecraft:obsidian, minecraft:obsidian, minecraft:obsidian, 0.1, minecraft:diorite, minecraft:diorite, minecraft:stone, 0.35, minecraft:diorite, minecraft:diorite, minecraft:stone, 0.7, minecraft:stone, minecraft:stone, minecraft:stone, 1.5 
+
+ReplacedBlocks: (minecraft:gravel,minecraft:sand,39,39),(minecraft:granite,minecraft:sand,39,39),(minecraft:stone,minecraft:sand,39,39),(minecraft:sandstone,minecraft:stone,150,180),(minecraft:stone,minecraft:sandstone,180,256),(minecraft:sand,minecraft:sandstone,100,150),(minecraft:obsidian,minecraft:magma_block,39,39),(minecraft:grass_block,minecraft:podzol,154,156)
+
+
+#######################################################################
+# |                   Water / Lava & Frozen States                  | #
+#######################################################################
+
+UseWorldWaterLevel: false
+
+WaterLevelMax: 50
+
+WaterLevelMin: 35
+
+WaterBlock: minecraft:water
+
+IceBlock: minecraft:ice
+
+PackedIceBlock: minecraft:packed_ice
+
+SnowBlock: minecraft:snow_block
+
+CooledLavaBlock: minecraft:obsidian
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                       Visuals and weather                       | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+BiomeTemperature: 0.5
+
+UseFrozenOceanTemperature: false
+
+BiomeWetness: 0.5
+
+SkyColor: #7BA5FF
+
+WaterColor: #FFFFFF
+
+WaterColorControl: 
+
+GrassColor: #FFFFFF
+
+GrassColorControl: 
+
+GrassColorModifier: None
+
+FoliageColor: #FFFFFF
+
+FoliageColorControl: 
+
+FogColor: #000000
+
+FogDensity: 0.0
+
+WaterFogColor: #000000
+
+ParticleType: 
+
+ParticleProbability: 0.0
+
+Music: 
+
+MusicMinDelay: 0
+
+MusicMaxDelay: 0
+
+ReplaceCurrentMusic: false
+
+AmbientSound: 
+
+MoodSound: minecraft:ambient.cave
+
+MoodSoundDelay: 6000
+
+MoodSearchRange: 8
+
+MoodOffset: 2.0
+
+AdditionsSound: 
+
+AdditionsTickChance: 0.0
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                          Resource queue                         | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Ore(minecraft:andesite,33,10,100.0,0,79,minecraft:stone)
+Ore(minecraft:diorite,33,10,100.0,0,79,minecraft:stone)
+Ore(minecraft:granite,33,10,100.0,0,79,minecraft:stone)
+Ore(minecraft:redstone_ore,8,8,100.0,0,15,minecraft:stone)
+Ore(minecraft:lapis_ore,7,1,100.0,0,15,minecraft:stone)
+Ore(minecraft:iron_ore,9,20,100.0,0,63,minecraft:stone)
+Ore(minecraft:gravel,33,8,100.0,0,255,minecraft:stone)
+Ore(minecraft:gold_ore,9,2,100.0,0,31,minecraft:stone)
+Ore(minecraft:dirt,33,10,100.0,0,255,minecraft:stone)
+Ore(minecraft:diamond_ore,8,1,100.0,0,15,minecraft:stone)
+Ore(minecraft:coal_ore,17,20,100.0,0,127,minecraft:stone)
+UnderWaterOre(minecraft:sand,7,3,100.0,otg:stone,minecraft:dirt,minecraft:grass_block)
+UnderWaterOre(minecraft:gravel,6,1,100.0,otg:stone,minecraft:dirt,minecraft:grass_block)
+UnderWaterOre(minecraft:clay,4,1,100.0,otg:stone,minecraft:dirt,minecraft:clay)
+Ore(minecraft:sand,20,100,80.0,35,40,otg:stone,otg:sandstone)
+Ore(minecraft:gravel,20,100,60.0,35,40,otg:stone,otg:sandstone)
+Ore(minecraft:clay,20,100,30.0,35,40,otg:stone,otg:sandstone)
+Ore(minecraft:sea_lantern,5,5,30.0,39,39,otg:stone,otg:sandstone)
+Ore(minecraft:sand,15,20,30.0,156,156,minecraft:coarse_dirt)
+Ore(minecraft:sea_lantern,5,15,30.0,156,156,minecraft:sand,minecraft:podzol)
+CustomStructure(CO-SkullMaster,3.0)
+CustomObject(dungeon)
+CustomObject(CO-CeilingSpike-01,CO-CeilingSpike-02,CO-CeilingSpike-03,CO-CeilingSpike-04)
+CustomObject(Ocean-stonecave_01,Ocean-stonecave_02,Ocean-stonecave_03,Ocean-stonecave_04)
+CustomObject(CO-Coral-01,CO-Coral-02,CO-Coral-03,CO-Coral-04,CO-Reef-01,CO-Reef-02)
+CustomObject(CO-ColumnMixed,CO-ColumnObsidian,CO-ColumnDiorite,CO-ColumnLeaves,CO-ColumnStone)
+CustomObject(CO-ColumnBig-01,CO-ColumnSmall-01,CO-ColumnSmall-02,CO-ColumnSmall-03,CO-ColumnSmall-04,CO-ColumnSmall-05)
+CustomObject(CO-vines)
+Tree(1,CO-Plant-01,80,CO-Plant-02,80,CO-Plant-03,80,CO-Plant-04,80,CO-Plant-05,80)
+Tree(100,CO-Reed-00,100,CO-Reed-01,100,CO-Reed-02,100,CO-Reed-03,100,CO-Reed-04,100,CO-Reed-05,100,CO-Reed-06,100,CO-Reed-07,100,CO-Reed-08,100,CO-Reed-09,100,CO-Reed-10,100,CO-Reed-11,100,CO-Reed-12,100,CO-Reed-13,100,CO-Reed-14,100,CO-Reed-15,100)
+Tree(100,CO-MushroomBrownRedSingle,50,CO-MushroomRedBrownSplit,50,CO-MushroomRedDiagonal,50,CO-MushroomRedMedium,50,CO-MushroomRedSmall,50,CO-MushroomRedWide,50,CO-MushroomRedWideTall,50)
+Tree(100,CO-Oak01,100,CO-Oak02,100,CO-Oak03,100,CO-Oak04,100,CO-Oak05,100,CO-Oak06,100,CO-Oak07,100,CO-Oak08,100,CO-Oak09,100,CO-Oak10,100)
+Tree(100,CO-TreeLight-01,100,CO-TreeLight-02,100,CO-TreeLight-03,100)
+Tree(1,Birch,1,TallBirch,1,Acacia,1)
+Plant(Dandelion,15,20.0,80,170,minecraft:grass_block)
+Plant(Poppy,15,20.0,80,170,minecraft:grass_block)
+Plant(OxeyeDaisy,15,20.0,80,170,minecraft:grass_block)
+Tree(50,CO-OakSwamp01,100,CO-OakSwamp02,100,CO-OakSwamp03,100,CO-OakSwamp04,100,CO-OakSwamp05,100,CO-OakSwamp06,100,CO-OakSwamp07,100,CO-TreeSwamp01,100,CO-TreeSwamp02,100,CO-TreeSwamp03,100,CO-TreeSwamp04,100,CO-TreeSwamp05,100,CO-TreeSwamp06,100,CO-TreeSwamp07,100,CO-TreeSwamp08,100,CO-TreeSwamp09,100,CO-TreeSwamp10,100,CO-TreeSwamp11,100,CO-TreeSwampWater01,100,CO-TreeSwampWater02,100,CO-TreeSwampWater03,100)
+Tree(100,CO-LilyPad,100)
+Plant(DoubleTallgrass,100,100.0,90,150,minecraft:grass_block)
+Plant(Tallgrass,100,100.0,90,150,minecraft:grass_block)
+Plant(BrownMushroom,20,25.0,0,150,otg:stone,minecraft:dirt,minecraft:grass_block)
+Plant(RedMushroom,10,15.0,0,150,otg:stone,minecraft:dirt,minecraft:grass_block)
+Plant(Fern,30,50.0,90,150,minecraft:dirt,minecraft:grass_block)
+Plant(LargeFern,5,30.0,90,150,minecraft:dirt,minecraft:grass_block)
+Plant(DeadBush,5,10.0,90,150,minecraft:sand,minecraft:dirt)
+Plant(Tallgrass,100,100.0,161,170,minecraft:grass_block)
+Plant(BrownMushroom,1,25.0,161,170,otg:stone,minecraft:dirt,minecraft:grass_block)
+Plant(RedMushroom,10,15.0,161,170,otg:stone,minecraft:dirt,minecraft:grass_block)
+Plant(Fern,30,50.0,161,170,minecraft:dirt,minecraft:grass_block)
+Plant(LargeFern,5,30.0,161,170,minecraft:dirt,minecraft:grass_block)
+Plant(DeadBush,5,10.0,161,250,minecraft:sand,minecraft:dirt)
+Plant(DoubleTallgrass,100,100.0,161,250,minecraft:grass_block)
+Plant(Tallgrass,100,100.0,161,255,minecraft:grass_block)
+Tree(10,CO-Melon,10,CO-PumpKin,10)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                             Saplings                            | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+Sapling(Oak,Tree,20.0,TreeSwamp03,5.0,TreeSwamp04,5.0,TreeSwamp06,5.0,TreeSwamp07,5.0,TreeSwamp08,5.0,TreeSwamp10,5.0,80,5.0,81,5.0,82,5.0,83,5.0,84,5.0,85,5.0,BigTree,100.0)
+Sapling(Redwood,Taiga1,20.0,pine04,5.0,pine05,5.0,pine06,5.0,pine07,5.0,pine08,5.0,pine09,5.0,pine10,5.0,ME1,5.0,ME2,5.0,ME3,5.0,ME4,5.0,52,5.0,53,5.0,Taiga2,100.0)
+Sapling(Birch,TallBirch,20.0,SA2S,5.0,SA19S,5.0,SA11S,5.0,SA11L,5.0,NA7L,5.0,NA11S,5.0,EUR3S,5.0,Birch,100.0)
+Sapling(SmallJungle,GroundBush,20.0,CocoaTree,20.0,tropicaltree_tiny_01,5.0,tropicaltree_tiny_02,5.0,tropicaltree_tiny_03,5.0,tropicaltree_tiny_04,5.0,tropicaltree_tiny_05,5.0,tropicaltree_tiny_06,5.0,tropicaltree_tiny_07,5.0,tropicaltree_tiny_08,5.0,tropicaltree_tiny_09,5.0,tropicaltree_tiny_10,5.0,CocoaTree,100.0)
+Sapling(BigJungle,JungleTree,50.0,RFGodTree01,1.0,RFGodTree02,1.0,RFMedTree01,2.0,RFMedTree02,2.0,RFMedTree03,2.0,RFTree01,4.0,RFTree05,4.0,RFTree10,4.0,RFTree15,4.0,RFTree20,4.0,RFTree25,4.0,RFTree30,4.0,RFTree35,4.0,JungleTree,100.0)
+Sapling(RedMushroom,MushroomRedWideTall,10.0,MushroomRedWide,10.0,MushroomRedSmall,10.0,MushroomRedMedium,10.0,MushroomRedDiagonal,10.0,HugeRedMushroom,100.0)
+Sapling(BrownMushroom,MushroomRedBrownSplit,10.0,MushroomBrownRedSingle,10.0,HugeMushroom,20.0,HugeBrownMushroom,100.0)
+Sapling(Acacia,Acacia,50.0,AFR3L,5.0,AFR3S,5.0,AFR5S,5.0,AFR6L,5.0,AFR8L,5.0,AFR8S,5.0,AFR9L,5.0,AFR9S,5.0,AFR10L,5.0,AFR10S,5.0,AFR11S,5.0,AFR11L,5.0,AFR12L,5.0,Acacia,100.0)
+Sapling(DarkOak,DarkOak,50.0,Dense01,5.0,Dense02,5.0,Dense03,5.0,Dense04,5.0,Dense05,5.0,Dense06,5.0,Dense07,5.0,Dense08,5.0,Dense09,5.0,Dense10,5.0,DarkOak,100.0)
+Sapling(HugeRedwood,HugeTaiga1,20.0,SpookyTree1,5.0,SpookyTree3,5.0,SpookyTree4,5.0,ME5,5.0,51,5.0,HugeTaiga2,100.0)
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                        Vanilla structures                       | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+StrongholdsEnabled: true
+
+WoodlandMansionsEnabled: false
+
+OceanMonumentsEnabled: false
+
+NetherFortressesEnabled: false
+
+VillageType: disabled
+
+VillageSize: 6
+
+MineshaftType: mesa
+
+MineshaftProbability: 0.004
+
+RareBuildingType: disabled
+
+BuriedTreasureEnabled: false
+
+BuriedTreasureProbability: 0.01
+
+ShipWreckEnabled: false
+
+ShipWreckBeachedEnabled: false
+
+PillagerOutpostEnabled: false
+
+PillagerOutpostSize: 7
+
+BastionRemnantEnabled: false
+
+BastionRemnantSize: 6
+
+NetherFossilEnabled: false
+
+EndCityEnabled: false
+
+RuinedPortalType: disabled
+
+OceanRuinsType: disabled
+
+OceanRuinsLargeProbability: 0.3
+
+OceanRuinsClusterProbability: 0.9
+
+
+#######################################################################
+# +-----------------------------------------------------------------+ #
+# |                           Mob spawning                          | #
+# +-----------------------------------------------------------------+ #
+#######################################################################
+
+SpawnMonsters: []
+
+SpawnCreatures: []
+
+SpawnWaterCreatures: []
+
+SpawnAmbientCreatures: []
+
+SpawnWaterAmbientCreatures: []
+
+SpawnMiscCreatures: []
+
+InheritMobsBiomeName: minecraft:beaches
+

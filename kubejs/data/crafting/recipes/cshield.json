@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "ASA",
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "C": {
+            "item": "minecraft:crimson_fungus"
+        },
+        "A": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "S": {
+            "item": "minecraft:shield"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

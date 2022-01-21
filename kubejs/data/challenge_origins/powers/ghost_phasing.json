@@ -1,0 +1,27 @@
+{
+  "name": "Incorporeal",
+  "description": "Can walk through solid blocks at will whilst maintaining better-than-average sight, toggleable via the Primary-Ability key.",
+  "type": "origins:phasing",
+  "blacklist": true,
+  "render_type": "blindness",
+  "view_distance": 64,
+  "block_condition": {
+    "type": "origins:in_tag",
+    "tag": "origins:unphasable"
+  },
+  "phase_down_condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:sneaking"
+      },
+      {
+        "type": "origins:on_block"
+      }
+    ]
+  },
+  "condition": {
+    "type": "origins:power_active",
+    "power": "*:ghost_switch"
+  }
+}

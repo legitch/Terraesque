@@ -1,0 +1,127 @@
+
+#Note: Due to vanilla behaviour, disabling enchantments from being generated in loot also prevents them from being in enchantment tables.
+[enchantments]
+
+	[enchantments.anchoring_curse]
+		canAnchoringCurseGenerateInLoot = true
+		canAnchoringCurseAppearInTrades = true
+
+	[enchantments.aquatic_rejuvenation]
+		canAquaticRejuvenationBeAppliedToItems = false
+		canAquaticRejuvenationBeAppliedToBooks = false
+		canAquaticRejuvenationGenerateInLoot = true
+		canAquaticRejuvenationAppearInTrades = true
+
+	[enchantments.bloodlust]
+		canBloodlustBeAppliedToItems = true
+		canBloodlustBeAppliedToBooks = true
+		canBloodlustGenerateInLoot = true
+		canBloodlustAppearInTrades = true
+
+	[enchantments.buoyancy]
+		canBuoyancyBeAppliedToBooks = true
+		canBuoyancyGenerateInLoot = true
+		canBuoyancyAppearInTrades = true
+
+	[enchantments.butchering]
+		canButcheringBeAppliedToItems = true
+		canButcheringBeAppliedToBooks = true
+		canButcheringGenerateInLoot = true
+		canButcheringAppearInTrades = true
+
+	[enchantments.inferno]
+		canInfernoBeAppliedToItems = true
+		canInfernoBeAppliedToBooks = true
+		canInfernoGenerateInLoot = true
+		canInfernoAppearInTrades = true
+
+	[enchantments.leaping]
+		canLeapingBeAppliedToBooks = true
+		canLeapingGenerateInLoot = true
+		canLeapingAppearInTrades = true
+
+	[enchantments.maelstrom]
+		canMaelstromBeAppliedToItems = true
+		canMaelstromBeAppliedToBooks = true
+		canMaelstromGenerateInLoot = true
+		canMaelstromAppearInTrades = true
+
+	[enchantments.obsidian_skull]
+		canObsidianSkullBeAppliedToItems = false
+		canObsidianSkullBeAppliedToBooks = false
+		canObsidianSkullGenerateInLoot = true
+		canObsidianSkullAppearInTrades = true
+
+	[enchantments.outrush]
+		canOutrushBeAppliedToItems = true
+		canOutrushBeAppliedToBooks = true
+		canOutrushGenerateInLoot = true
+		canOutrushAppearInTrades = true
+
+	[enchantments.pillaging]
+		canPillagingBeAppliedToItems = true
+		canPillagingBeAppliedToBooks = true
+		canPillagingGenerateInLoot = true
+		canPillagingAppearInTrades = true
+
+	[enchantments.poison_aspect]
+		canPoisonAspectBeAppliedToItems = true
+		canPoisonAspectBeAppliedToBooks = true
+		canPoisonAspectGenerateInLoot = true
+		canPoisonAspectAppearInTrades = true
+
+	[enchantments.quickness]
+		canQuicknessBeAppliedToBooks = true
+		canQuicknessGenerateInLoot = true
+		canQuicknessAppearInTrades = true
+
+	[enchantments.searing]
+		canSearingBeAppliedToItems = true
+		canSearingBeAppliedToBooks = true
+		canSearingGenerateInLoot = true
+		canSearingAppearInTrades = true
+
+	[enchantments.sharpshooter]
+		canSharpshooterBeAppliedToItems = true
+		canSharpshooterBeAppliedToBooks = true
+		canSharpshooterGenerateInLoot = true
+		canSharpshootertAppearInTrades = true
+
+	[enchantments.steadfast]
+		canSteadfastBeAppliedToItems = true
+		canSteadfastBeAppliedToBooks = true
+		canSteadfastGenerateInLoot = true
+		canSteadfastAppearInTrades = true
+
+	[enchantments.torrent]
+		canTorrentBeAppliedToItems = true
+		canTorrentBeAppliedToBooks = true
+		canTorrentGenerateInLoot = true
+		canTorrentAppearInTrades = true
+
+	[enchantments.vampiric]
+		canVampiricBeAppliedToItems = false
+		canVampiricBeAppliedToBooks = false
+		canVampiricGenerateInLoot = true
+		canVampiricAppearInTrades = true
+
+	[enchantments.weighted]
+		canWeightedBeAppliedToItems = true
+		canWeightedBeAppliedToBooks = true
+		canWeightedGenerateInLoot = true
+		canWeightedAppearInTrades = true
+
+	[enchantments.wither_aspect]
+		canWitherAspectBeAppliedToItems = false
+		canWitherAspectBeAppliedToBooks = false
+		canWitherAspectGenerateInLoot = true
+		canWitherAspectAppearInTrades = true
+
+#Loot Modifier Configuration
+[loot_modifiers]
+	#Allow/disallow saddles as part of loot to be randomly enchanted.
+	enableSaddlesRandomlyEnchanted = true
+	#The chance for a saddle to be enchanted with a random saddle enchantment. 1.0 means it will be guaranteed to be enchanted.
+	#Range: 0.0 ~ 1.0
+	enchantSaddleChance = 0.5
+

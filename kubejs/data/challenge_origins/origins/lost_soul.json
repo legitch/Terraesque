@@ -1,0 +1,21 @@
+{
+  "name": "Lost Soul",
+  "description": "Your soul refused to die, but without a body, you're doomed to wander this world, continuing the adventure set out before you and searching for what you lost.",
+  "powers": [
+    "challenge_origins:no_health",
+    "challenge_origins:holy_mantle",
+    "challenge_origins:astral_defenses",
+    "challenge_origins:stomachless",
+    "challenge_origins:faster_walk",
+    "challenge_origins:waterless",
+    "origins:slow_falling",
+    "origins:translucent",
+    "challenge_origins:spectral_tail",
+    "challenge_origins:ghost_switch",
+    "challenge_origins:ghost_phasing",
+    "challenge_origins:resurrection"
+  ],
+  "icon": "kubejs:lost_soul",
+  "order": 1,
+  "impact": 2
+}

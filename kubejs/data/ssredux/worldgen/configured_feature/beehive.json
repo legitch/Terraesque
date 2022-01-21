@@ -1,0 +1,38 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "to_place": {
+          "Name": "minecraft:honey_block",
+"Properties": {
+  "axis": "y"
+}
+        },
+        "place_on": [
+          {
+            "Name": "minecraft:grass_block"
+          }
+        ],
+        "place_in": [
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ],
+        "place_under": [
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ]
+      },
+      "type": "minecraft:simple_block"
+    },
+    "decorator": {
+      "config": {
+        "step": "air",
+        "probability": 0.015
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}
