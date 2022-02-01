@@ -16,6 +16,9 @@
 		axeBlocksPerLevel = 20
 		bowKillsPerLevel = 10
 		bowShotsFiredPerLevel = 100
+		crossbowKillsPerLevel = 10
+		crossbowShotsFiredPerLevel = 100
+		crossbowMaxVelocityLevel = 10.0
 
 #whether mod loot spawns in chests
 ["loot spawning"]

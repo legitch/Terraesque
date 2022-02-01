@@ -1,0 +1,35 @@
+# config
+/config/jei/world/
+/config/jei/bookmarks.ini
+config/jei-client.toml
+
+# kubejs
+/kubejs/exported/*
+
+# root folders
+/not-enough-crashes/
+/crash-reports/
+/resourcepacks/
+/screenshots/
+/saves/
+/logs/
+/mods/
+
+# root files
+knownkeys.txt
+minecraftinstance.json
+options.txt
+realms_persistence.json
+TrashSlotSaveState.json
+usercache.json
+usernamecache.json
+patchouli_data.json
+
+# ide files
+/.vscode/
+
+# launcher-related
+.curseclient
+icon.png
+/server-resource-packs/
+/coremods/

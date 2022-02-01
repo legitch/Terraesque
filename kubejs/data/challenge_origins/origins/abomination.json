@@ -3,7 +3,8 @@
   "description": "After finally escaping from the Doctor's lab, you kept on writhing and flailing across the world to avoid recontainment, there were many experiments done on you that strickenly changed you, added unnecessary parts, deformation. Enter the pain.",
   "powers": [
     "challenge_origins:armorless",
-    "challenge_origins:no_buffs"
+    "challenge_origins:no_buffs",
+    "challenge_origins:metamorphasis_minotaur"
   ],
   "icon": "forbidden_arcanus:tentacle",
   "order": 1,

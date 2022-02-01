@@ -4,12 +4,12 @@
     "distance": 60,
     "x": 4.0,
     "y": 4.0,
-    "scale": 1.0,
+    "scale": 0,
     "hideDelay": 20,
     "anchorPoint": "TOP_LEFT",
-    "showEntity": true,
-    "showBar": true,
-    "showSkin": true
+    "showEntity": false,
+    "showBar": false,
+    "showSkin": false
   },
   "bar": {
     "damageNumberType": "LAST",
@@ -19,10 +19,10 @@
     "foeColorSecondary": -2147483393
   },
   "inWorld": {
-    "mode": "NONE",
+    "mode": "ALWAYS",
     "distance": 60.0,
     "onlyWhenLookingAt": false,
-    "onlyWhenHurt": false
+    "onlyWhenHurt": true
   },
   "particle": {
     "show": true,

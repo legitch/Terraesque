@@ -1,0 +1,297 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-01-30 12:17:55 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/dark_mirror": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2022-01-31 16:09:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2022-01-31 16:09:18 -0500"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2022-01-30 12:26:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-01-30 12:22:07 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_emblem": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2022-01-30 12:20:54 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/forbidden_fruit": {
+    "criteria": {
+      "has_items": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/soul_loss": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2022-01-30 12:20:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2022-01-30 12:19:38 -0500",
+      "minecraft:wooded_mountains": "2022-01-30 12:22:20 -0500",
+      "autumnity:maple_forest": "2022-01-30 12:17:56 -0500",
+      "minecraft:wooded_hills": "2022-01-30 12:23:06 -0500",
+      "minecraft:plains": "2022-01-30 12:22:28 -0500"
+    },
+    "done": false
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-30 12:17:55 -0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-01-30 12:17:55 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/the_twist": {
+    "criteria": {
+      "has_the_recipe": "2022-01-31 21:04:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2022-01-30 12:20:54 -0500"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/root": {
+    "criteria": {
+      "tick": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2022-01-30 12:22:07 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchanter_pearl": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": false
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2022-01-30 12:20:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-01-30 12:22:07 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_stone": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": false
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2022-01-30 12:20:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2022-01-30 12:20:54 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/twisted_core": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-01-30 12:20:53 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2022-01-30 12:22:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-01-30 12:22:07 -0500"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2022-01-30 12:22:34 -0500"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2022-01-30 12:17:55 -0500",
+      "has_recipe_result": "2022-01-31 21:04:04 -0500",
+      "is_cursed_one": "2022-01-30 12:18:39 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2022-01-30 12:17:56 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
